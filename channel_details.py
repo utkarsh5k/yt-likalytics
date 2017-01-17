@@ -13,8 +13,3 @@ def get_all_data(channel_id):
 	channel_subscriber_count = statistics['subscriberCount']
 	channel_video_count = statistics['videoCount']
 	return {'channel_view_count': channel_view_count, 'channel_video_count': channel_video_count, 'channel_subscriber_count': channel_subscriber_count}
-
-"""
-extract needed channel ids from csv file and run for them and add to data file
-subscriberCount, videoCount, viewCount
-"""

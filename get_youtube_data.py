@@ -1,6 +1,4 @@
 import pandas as pd
-import matplotlib as mpl
-import numpy as np
 
 from apiclient.discovery import build
 from apiclient.errors import HttpError
@@ -12,22 +10,16 @@ API_KEY = "AIzaSyBYq7UXn9VnF9JOLKEDHgU0N0u0U_zw3ps"
 API_NAME = "youtube"
 API_VERSION = "v3"
 
-"""
-create array of search queries for data extraction
-"""
-search_queries_part_1 = ["Manchester United", "Proximity", "Ed Sheeran", "Selena Gomez", "Chelsea FC",
-                "Mortal Kombat", "Call of Duty", "WWE", "Conor McGregor", "AIB", "TVF", "EIC", "SNG"]
-
-search_queries_part_2 = ["Graham Norton", "Jimmy Fallon", "Jimmy Kimmel", "Ellen DeGeneres", "Barack Obama"
-                "Donald Trump", "Hillary Clinton", "Pokemon Go", "Battlefield", "League of Legends"]
-
-search_queries_part_3 = ["Khan Academy", "TED", "GTA", "Deepika Padukone", "Pirates of the Caribbean", "Ranveer Singh",
-                "Koffee with Karan", "Ranbir Kapoor", "Kareena Kapoor", "Priyanka Chopra", "Chainsmokers"]
-
-search_queries_part_4 = ["Marvel", "Batman", "Superman", "Avengers", "Kenny Sebastian", "Denver Broncos",
-                "New England Patriots", "Arsenal", "Manchester City"]
-
-search_queries_part_5 = ["Tottenham Hotspurs", "Brexit", "Sia", "One Republic", "Wolverine", "Star Wars", "DoTA"]
+search_queries = ["Manchester United", "Proximity", "Ed Sheeran", "Selena Gomez", "Chelsea FC",
+                "Mortal Kombat", "Call of Duty", "WWE", "Conor McGregor", "AIB", "TVF", "EIC", "SNG", 
+                "Graham Norton", "Jimmy Fallon", "Jimmy Kimmel", "Ellen DeGeneres", "Barack Obama"
+                "Donald Trump", "Hillary Clinton", "Pokemon Go", "Battlefield", "League of Legends", 
+                "Khan Academy", "TED", "GTA", "Deepika Padukone", "Pirates of the Caribbean", "Ranveer Singh",
+                "Koffee with Karan", "Ranbir Kapoor", "Kareena Kapoor", "Priyanka Chopra", "Chainsmokers", 
+                "Marvel", "Batman", "Superman", "Avengers", "Kenny Sebastian", "Denver Broncos",
+                "New England Patriots", "Arsenal", "Manchester City", 
+                "Tottenham Hotspurs", "Brexit", "Sia", "One Republic", "Wolverine", "Star Wars", "DoTA",
+                "Dangal", "Salman Khan", "Shah Rukh Khan"]
 
 def gather(search_query):
     argparser.add_argument("--q", help="Search term", default=search_query)
@@ -70,19 +62,18 @@ def gather(search_query):
 
     dataframe = pd.DataFrame.from_dict(res)
     # drop useless columns from dataframe
-    dataframe.drop(['license', 'licensedContent', 'dimension', 'thumbnails', 'v_title', 'uploadStatus', 'defaultLanguage'], axis=1, inplace=True)
-
+    try:
+        dataframe.drop(['license', 'licensedContent', 'dimension', 'thumbnails', 'v_title', 'uploadStatus', 'defaultLanguage'], axis=1, inplace=True)
+    except ValueError:
+        dataframe.drop(['license', 'licensedContent', 'dimension', 'thumbnails', 'v_title', 'uploadStatus'], axis=1, inplace=True)
     """
     below columns can be manipulated into being features
     """
     dataframe.drop(['caption', 'embeddable'], axis=1, inplace=True)
-    # print dataframe
     names = dataframe.columns.values
     f = open("data.csv", "a")
     dataframe.to_csv(path_or_buf=f, encoding='utf-8')
 
-for query in search_queries_part_1:
+for query in search_queries:
     gather(query)
-# query = "Hello"
-# gather(query)
 

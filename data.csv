@@ -1,217 +1,1415 @@
-   caption categoryId                 channelId              channelTitle  \
-0    false         17  UChkQQQlzYQb9l1jzLgz2acg  Cristiano Ronaldo Brasil   
-1    false         17  UCWw6scNyopJ0yjMu1SyOEyw                 talkSPORT   
-2    false         17  UCWW3QH_lhOHxb6-97Uen96g           Everything MUFC   
-3    false         22  UC8hea4Sa01f742itYslBdkA                 Sports HQ   
-4    false         17  UCykERqO6KgqYF6t3l_hNVfQ       Euro Football Daily   
-5    false         17  UCiVg6vRhuyjsWgHkDNOig6A            BeanymanSports   
-6    false         20  UC1U8rii2eo15X5hJduhKuPA                       DΞV   
-7    false         20  UCJ47W_WzuzbHaONWB5a9i7w                 bateson87   
-8    false         17  UCWw6scNyopJ0yjMu1SyOEyw                 talkSPORT   
-9    false         17  UCzjbX7BnicGhA5-zUVb1baQ                 MANUTD-TV   
-10   false         17  UCNT2e7Og56vm5_V-yJWvglA                      FATV   
-11   false         17  UCWW3QH_lhOHxb6-97Uen96g           Everything MUFC   
-12   false         17  UCXbOPKZ9xHKKmRoQlHRcMNA             Football 24/7   
-13   false         17  UCQxE4Scu1Ej_w4IcdR4Li8g           JSMHEProduction   
-14   false         17  UC7w8GnTF2Sp3wldDMtCCtVw            FullTimeDEVILS   
-15   false         17  UCLjIA86G23UwBgDE3OPfXZg           Tatul Axababyan   
-16   false         17  UC7w8GnTF2Sp3wldDMtCCtVw            FullTimeDEVILS   
-17   false         17  UCoj9Ji7s0S2p7bbdeNlM_Og                 Totaleros   
-18   false         17  UCdU7P1j-PpydB6tuW_59G5A                WSC SPORTS   
-19   false         17  UCoj9Ji7s0S2p7bbdeNlM_Og                 Totaleros   
-20   false         17  UC9nq8hTJDF7rZh_-5ZDsfFg                colosimo99   
-21   false         17  UC7w8GnTF2Sp3wldDMtCCtVw            FullTimeDEVILS   
-22   false         17  UCcmYYg3Rzfg3x8HKG5FhbtA               sportsUwant   
-23   false         17  UC7w8GnTF2Sp3wldDMtCCtVw            FullTimeDEVILS   
-24   false         17  UCDJ1Zb5PCGqJFeoAcxAoV7g              JustFootball   
+,categoryId,channelId,channelTitle,channel_subscriber_count,channel_video_count,channel_view_count,commentCount,defaultAudioLanguage,definition,description,dislikeCount,duration,favoriteCount,likeCount,liveBroadcastContent,localized,privacyStatus,projection,publicStatsViewable,publishedAt,regionRestriction,tags,title,v_id,viewCount
+0,17,UC7w8GnTF2Sp3wldDMtCCtVw,FullTimeDEVILS,,,,418,,hd,"Sam spoke to us after Manchester United 1-1 Liverpool and tells us this is the reason that Zlatan exists, to score goals, have your say, comment below! 
 
-   commentCount defaultAudioLanguage defaultLanguage definition  \
-0            44                  NaN             NaN         hd   
-1           136                  NaN             NaN         hd   
-2            22                en-GB             NaN         hd   
-3            99                  NaN             NaN         sd   
-4           263                en-GB             NaN         hd   
-5           100                en-GB           en-GB         hd   
-6            14                  NaN             NaN         hd   
-7           684                  NaN           en-GB         hd   
-8           120                  NaN             NaN         hd   
-9            55                  NaN             NaN         hd   
-10          148                  NaN             NaN         hd   
-11          249                en-GB             NaN         hd   
-12            2                  NaN             NaN         hd   
-13           50                  NaN             NaN         hd   
-14          572                en-GB             NaN         hd   
-15           16                  NaN             NaN         sd   
-16          190                en-GB             NaN         hd   
-17            5               es-419          es-419         sd   
-18           20                  NaN              en         sd   
-19           42               es-419          es-419         sd   
-20          192                  NaN             NaN         hd   
-21          892                en-GB             NaN         hd   
-22            0                  NaN             NaN         hd   
-23          278                en-GB             NaN         hd   
-24           58                en-GB             NaN         hd   
+Subscribe, FREE, for more MUFC: http://bit.ly/DEVILSsub
+Subscribe to The Football Republic: http://bit.ly/1Nsw8Uq
 
-                                          description dimension    ...     \
-0   Cristiano Ronaldo - Top 5 Inimagináveis Gols P...        2d    ...      
-1   ►Subscribe here http://tlks.pt/Fans to get ent...        2d    ...      
-2   Jose Mourinho speaks to the media, after his w...        2d    ...      
-3                                           Sports hq        2d    ...      
-4   ► SUBSCRIBE to EURO FOOTBALL DAILY: http://bit...        2d    ...      
-5   Pre-match press conference with Liverpool mana...        2d    ...      
-6   ж Donate: https://goo.gl/laT7c2\nж ODBIERZ DAR...        2d    ...      
-7   PAST AND PRESENT MANCHESTER UNITED SQUAD BUILD...        2d    ...      
-8   ►Man United v Liverpool betting – get a first ...        2d    ...      
-9   Thanks for watching. Don't forget SUBSCRIBE.\n...        2d    ...      
-10  Subscribe to FATV: http://bit.ly/FATVSub\n\nMa...        2d    ...      
-11  Jose Mourinho addresses the media ahead of the...        2d    ...      
-12  Jose Mourinho Answers Phone Call During Press ...        2d    ...      
-13  #thespecialjuan \n\nEnjoy! Share! Comments! Li...        2d    ...      
-14  IT'S PREVIEW TIME! Manchester United vs Liverp...        2d    ...      
-15  Manchester United vs Hull City 10.01.2017 goal...        2d    ...      
-16  Jose Mourinho's prematch press conference ahea...        2d    ...      
-17  Fútbol Total (13/1/17) Análisis Recuperación d...        2d    ...      
-18  SUBSCRIBE channel to make it better! \n\nLike ...        2d    ...      
-19  Fútbol Total (13/1/17) Análisis Recuperación d...        2d    ...      
-20  Shoutout to CleanArts for some of the clips: h...        2d    ...      
-21  Paul from The Redmen TV gives his combined XI ...        2d    ...      
-22  Someone Call Jose Mourinho during his press co...        2d    ...      
-23  Transfer Daily is here!!! - Separating the fac...        2d    ...      
-24  Video made by JustFootball.\nSubscribe to my c...        2d    ...      
+Why Zlatan Exists! | Manchester United 1-1 Liverpool | FANCAM
 
-     projection publicStatsViewable               publishedAt  \
-0   rectangular                True  2017-01-13T15:16:44.000Z   
-1   rectangular                True  2017-01-14T10:00:02.000Z   
-2   rectangular                True  2017-01-13T23:13:07.000Z   
-3   rectangular                True  2017-01-13T11:14:02.000Z   
-4   rectangular               False  2017-01-12T17:01:11.000Z   
-5   rectangular                True  2017-01-13T21:46:46.000Z   
-6   rectangular                True  2017-01-14T13:27:54.000Z   
-7   rectangular                True  2017-01-14T08:00:03.000Z   
-8   rectangular                True  2017-01-13T16:38:17.000Z   
-9   rectangular                True  2017-01-12T08:37:56.000Z   
-10  rectangular                True  2017-01-08T12:00:01.000Z   
-11  rectangular                True  2017-01-13T14:22:09.000Z   
-12  rectangular                True  2017-01-13T14:31:31.000Z   
-13  rectangular                True  2017-01-12T07:11:23.000Z   
-14  rectangular                True  2017-01-13T16:20:10.000Z   
-15  rectangular                True  2017-01-11T09:34:57.000Z   
-16  rectangular                True  2017-01-13T20:22:45.000Z   
-17  rectangular                True  2017-01-14T01:50:03.000Z   
-18  rectangular                True  2017-01-13T14:12:23.000Z   
-19  rectangular                True  2017-01-14T01:33:45.000Z   
-20  rectangular                True  2017-01-14T01:12:31.000Z   
-21  rectangular                True  2017-01-14T10:03:19.000Z   
-22  rectangular                True  2017-01-13T14:31:54.000Z   
-23  rectangular                True  2017-01-13T09:24:33.000Z   
-24  rectangular                True  2017-01-13T16:00:06.000Z   
+About FullTimeDEVILS:
+We are YouTube's largest football fan channel, made for Manchester United fans and bringing you big match previews, post-match reaction and reviews, tactical analysis, player debates and much more! If you're a red, we want you to get involved; whatever you want to say about United you can say it in the comments below. And to become one of our Devil pundits and be on the shows,here's how you can get in touch:
+Twitter: https://twitter.com/FullTimeDEVILS
+Facebook: https://www.facebook.com/FullTimeDEVILS
+G+: https://plus.google.com/+FullTimeDevils",36,PT5M36S,0,1163,none,"{u'description': u'Sam spoke to us after Manchester United 1-1 Liverpool and tells us this is the reason that Zlatan exists, to score goals, have your say, comment below! 
 
-                                                 tags  \
-0   [Editor do YouTube, Cristiano Ronaldo goals un...   
-1   [talksport, sport, football, funny, soccer, Ma...   
-2   [Jose Mourinho, Manchester United, MUFC, man u...   
-3                                                 NaN   
-4   [football, soccer, premier league, EPL, serie ...   
-5   [Football, Soccer, Beanyman, BeanymanSports, l...   
-6                                                 NaN   
-7   [bateson87, FIFA 17, FIFA 17 ULTIMATE TEAM, FI...   
-8   [talksport, sport, football, funny, soccer, bl...   
-9   [Manchester United, against, liverpool, man ut...   
-10  [football, soccer, fa cup, fatv, FA Cup 2016/1...   
-11  [Jose Mourinho, Manchester United, MUFC, man u...   
-12  [Football, Soccer, 24/7, FA, PL, Premier Leagu...   
-13  [Manchester, United, Manchester United, Juan M...   
-14  [Manchester United, Manchester, Man Utd, Footb...   
-15  [Manchester United vs Hull City, Manchester Un...   
-16  [Manchester United, Manchester, Man Utd, Footb...   
-17  [Fútbol Total, DIRECTV Sports, DIRECTV, Real M...   
-18  [Jose mourinho full press conference, jose mou...   
-19  [Fútbol Total, DIRECTV Sports, DIRECTV, Real M...   
-20  [juventus, juve, HD, colosimo99, ronaldo, mess...   
-21  [Manchester United, Manchester, Man Utd, Footb...   
-22  [JOSE, MOURINHO, JOSE MOURINHO, PRESS CONFEREN...   
-23  [Manchester United, Manchester, Man Utd, Footb...   
-24  [JustFootball, Manchester City 2-3 Manchester ...   
+Subscribe, FREE, for more MUFC: http://bit.ly/DEVILSsub
+Subscribe to The Football Republic: http://bit.ly/1Nsw8Uq
 
-                                           thumbnails  \
-0   {u'default': {u'url': u'https://i.ytimg.com/vi...   
-1   {u'default': {u'url': u'https://i.ytimg.com/vi...   
-2   {u'default': {u'url': u'https://i.ytimg.com/vi...   
-3   {u'default': {u'url': u'https://i.ytimg.com/vi...   
-4   {u'default': {u'url': u'https://i.ytimg.com/vi...   
-5   {u'default': {u'url': u'https://i.ytimg.com/vi...   
-6   {u'default': {u'url': u'https://i.ytimg.com/vi...   
-7   {u'default': {u'url': u'https://i.ytimg.com/vi...   
-8   {u'default': {u'url': u'https://i.ytimg.com/vi...   
-9   {u'default': {u'url': u'https://i.ytimg.com/vi...   
-10  {u'default': {u'url': u'https://i.ytimg.com/vi...   
-11  {u'default': {u'url': u'https://i.ytimg.com/vi...   
-12  {u'default': {u'url': u'https://i.ytimg.com/vi...   
-13  {u'default': {u'url': u'https://i.ytimg.com/vi...   
-14  {u'default': {u'url': u'https://i.ytimg.com/vi...   
-15  {u'default': {u'url': u'https://i.ytimg.com/vi...   
-16  {u'default': {u'url': u'https://i.ytimg.com/vi...   
-17  {u'default': {u'url': u'https://i.ytimg.com/vi...   
-18  {u'default': {u'url': u'https://i.ytimg.com/vi...   
-19  {u'default': {u'url': u'https://i.ytimg.com/vi...   
-20  {u'default': {u'url': u'https://i.ytimg.com/vi...   
-21  {u'default': {u'url': u'https://i.ytimg.com/vi...   
-22  {u'default': {u'url': u'https://i.ytimg.com/vi...   
-23  {u'default': {u'url': u'https://i.ytimg.com/vi...   
-24  {u'default': {u'url': u'https://i.ytimg.com/vi...   
+Why Zlatan Exists! | Manchester United 1-1 Liverpool | FANCAM
 
-                                                title uploadStatus  \
-0   Cristiano Ronaldo - Top 5 Inimagináveis Gols P...    processed   
-1          Manchester United v Liverpool | A Timeline    processed   
-2   Jose Mourinho's Embargoed Press Conference - M...    processed   
-3   Paul pogba's exclusive interview about Manches...    processed   
-4   Manchester United To Spend £60 Million On Prem...    processed   
-5   Jurgen Klopp Full Pre-Match Press Conference -...    processed   
-6   KARIERA MANCHESTER UNITED #1 - Football Manage...    processed   
-7   PAST AND PRESENT MANCHESTER UNITED SQUAD BUILD...    processed   
-8   Manchester United v Liverpool | Hilarious Blin...    processed   
-9    TOP 10 MANCHESTER UNITED GOALS AGAINST LIVERPOOL    processed   
-10  Manchester United 4-0 Reading - Emirates FA Cu...    processed   
-11  HELLO? IT'S TALKSPORT | Jose Mourinho Pre-Matc...    processed   
-12  Jose Mourinho Answers Phone Call During Press ...    processed   
-13  Juan Mata - The Special Juan - Skills, Assists...    processed   
-14           Manchester United vs Liverpool | PREVIEW    processed   
-15  Manchester United vs Hull City 2---0 EFL CUP H...    processed   
-16  Jose Mourinho: ANSWERS PHONE IN PRESS CONFEREN...    processed   
-17  2|3 Fútbol Total (13/1/17) Análisis Recuperaci...    processed   
-18  Jose mourinho full press conference - Manchest...    processed   
-19  1|3 Fútbol Total (13/1/17) Análisis Recuperaci...    processed   
-20  Zlatan Ibrahimović - INSANE Manchester United ...    processed   
-21  Manchester United vs Liverpool | THE REDMEN TV...    processed   
-22  Someone Call Jose Mourinho during his press co...    processed   
-23  Memphis Bid Rejected? Lingard, Evra to Palace?...    processed   
-24  Manchester City 2-3 Manchester United [ 2012 /...    processed   
+About FullTimeDEVILS:
+We are YouTube's largest football fan channel, made for Manchester United fans and bringing you big match previews, post-match reaction and reviews, tactical analysis, player debates and much more! If you're a red, we want you to get involved; whatever you want to say about United you can say it in the comments below. And to become one of our Devil pundits and be on the shows,here's how you can get in touch:
+Twitter: https://twitter.com/FullTimeDEVILS
+Facebook: https://www.facebook.com/FullTimeDEVILS
+G+: https://plus.google.com/+FullTimeDevils', u'title': u'Why Zlatan Exists! | Manchester United 1-1 Liverpool | FANCAM'}",public,rectangular,True,2017-01-15T21:20:49.000Z,,"[Manchester United, Manchester, Man Utd, Football, fulltimedevils, Andy Tate, Full Time Devils, Manchester United News, Transfer News, United, Man United, Mourinho, MUFC, Man United transfer news, Liverpool, Liverpool FC, Scousers, Manchester United 1-1 Liverpool, Man United 1-1 Liverpool, United 1-1 Liverpool, 1-1, Premier League, Old Trafford, Jurgen Klopp, Klopp, Jose Mourinho, Zlatan Ibrahimovic goal, Zlatan goal, Matip, Coutinho, goals, goal, highlights, live stream, live, stream, vs]",Why Zlatan Exists! | Manchester United 1-1 Liverpool | FANCAM,LsiHaFUvmwI,35386
+1,,,,325143,3883,121613952,,,,,,,,,,,,,,,,,,,
+2,17,UCWw6scNyopJ0yjMu1SyOEyw,talkSPORT,,,,183,,hd,"►Subscribe here http://tlks.pt/Fans to get entertaining sports videos every week
 
-           v_id                                            v_title viewCount  
-0   gqoubEhE0Yk  Cristiano Ronaldo - Top 5 Inimagináveis Gols P...      9387  
-1   ZH-y2ZzEuFc         Manchester United v Liverpool | A Timeline      4765  
-2   8Q9mNKpQ39k  Jose Mourinho's Embargoed Press Conference - M...      6060  
-3   iCM-sRrGJw0  Paul pogba's exclusive interview about Manches...     37833  
-4   -KRbmYaR75I  Manchester United To Spend £60 Million On Prem...     92730  
-5   Dxkg0OM0_fY  Jurgen Klopp Full Pre-Match Press Conference -...      8356  
-6   fQ3ASDcLMug  KARIERA MANCHESTER UNITED #1 - Football Manage...     16740  
-7   iutHP0uYKl0  PAST AND PRESENT MANCHESTER UNITED SQUAD BUILD...     46441  
-8   LBR93Exm7DY  Manchester United v Liverpool | Hilarious Blin...     17789  
-9   EpTp2DH8rC4   TOP 10 MANCHESTER UNITED GOALS AGAINST LIVERPOOL     48882  
-10  MrSN6gdGilo  Manchester United 4-0 Reading - Emirates FA Cu...    229379  
-11  9mL1-ZWkglc  HELLO? IT'S TALKSPORT | Jose Mourinho Pre-Matc...     88883  
-12  n22JpnoTj4w  Jose Mourinho Answers Phone Call During Press ...     12829  
-13  bnv0EjLMZGU  Juan Mata - The Special Juan - Skills, Assists...     24698  
-14  peG1_GB1pec           Manchester United vs Liverpool | PREVIEW     39757  
-15  2hEPJY_bBOo  Manchester United vs Hull City 2---0 EFL CUP H...    182775  
-16  S7OGgt2aMwA  Jose Mourinho: ANSWERS PHONE IN PRESS CONFEREN...     18550  
-17  CJeNkbnnphw  2|3 Fútbol Total (13/1/17) Análisis Recuperaci...      1679  
-18  yZRdRlxJaq0  Jose mourinho full press conference - Manchest...     15413  
-19  V9_fMPsq_5o  1|3 Fútbol Total (13/1/17) Análisis Recuperaci...      2600  
-20  68Z1FlMuais  Zlatan Ibrahimović - INSANE Manchester United ...     31966  
-21  1Ihln91zrOE  Manchester United vs Liverpool | THE REDMEN TV...      9276  
-22  VPYlx0_016c  Someone Call Jose Mourinho during his press co...      7367  
-23  qVrPrABuAbM  Memphis Bid Rejected? Lingard, Evra to Palace?...     25841  
-24  zX-gEzP0u1s  Manchester City 2-3 Manchester United [ 2012 /...     77697  
+►Follow us on Twitter and tell us what else you want to watch on talkSPORT's YouTube channel: http://tlks.pt/Twitter
 
-[25 rows x 27 columns]
+►Like us on Facebook for loads of shareable sports stories: http://on.fb.me/HAm7Gn
+
+⚽⚽⚽",17,PT3M14S,0,715,none,"{u'description': u'►Subscribe here http://tlks.pt/Fans to get entertaining sports videos every week
+
+►Follow us on Twitter and tell us what else you want to watch on talkSPORT's YouTube channel: http://tlks.pt/Twitter
+
+►Like us on Facebook for loads of shareable sports stories: http://on.fb.me/HAm7Gn
+
+⚽⚽⚽', u'title': u'Manchester United v Liverpool | A Timeline'}",public,rectangular,True,2017-01-14T10:00:02.000Z,,"[talksport, sport, football, funny, soccer, Manchester United, Liverpool, Manchester UNited Liverpool, United Liverpool, Liverpool vs Manchester United, Manchester United vs Liverpool, Man United v Liverpool, Liverpool V Man United, steven gerrard, cristiano ronaldo, liverpool man united highlights, full match highlights, highlights, man united v liverpool highlights]",Manchester United v Liverpool | A Timeline,ZH-y2ZzEuFc,33630
+3,,,,603556,1575,344362271,,,,,,,,,,,,,,,,,,,
+4,22,UCQrlxwscx_mtWLFZg_bMGFg,Premierteam,,,,19,,hd,"Zlatan Ibrahimović is a Swedish professional footballer who plays as a striker for Manchester United. He primarily plays as a striker and is best known for his great heading ability, strength and immense shooting.
+--------------------------------------------------------------------
+Song: Slumberjack - Horus
+--------------------------------------------------------------------
+Second Channel: https://www.youtube.com/channel/UCCBgbETgFQjjaXN3Mqy3DLA
+Facebook: https://www.facebook.com/Premierteam5
+Twitter: https://twitter.com/Premierteam5
+Contact: Messivscr7i@gmail.com
+Special Thanks to: https://www.youtube.com/channel/UCfGoD84vfdQM9B2OlDThSyQ 
+--------------------------------------------------------------------
+This video contains all the 20 goals for Man Utd including his goal versus Liverpool
+
+✖ Subscribe for more videos",5,PT4M24S,0,285,none,"{u'description': u'Zlatan Ibrahimović is a Swedish professional footballer who plays as a striker for Manchester United. He primarily plays as a striker and is best known for his great heading ability, strength and immense shooting.
+--------------------------------------------------------------------
+Song: Slumberjack - Horus
+--------------------------------------------------------------------
+Second Channel: https://www.youtube.com/channel/UCCBgbETgFQjjaXN3Mqy3DLA
+Facebook: https://www.facebook.com/Premierteam5
+Twitter: https://twitter.com/Premierteam5
+Contact: Messivscr7i@gmail.com
+Special Thanks to: https://www.youtube.com/channel/UCfGoD84vfdQM9B2OlDThSyQ 
+--------------------------------------------------------------------
+This video contains all the 20 goals for Man Utd including his goal versus Liverpool
+
+✖ Subscribe for more videos', u'title': u'Zlatan Ibrahimovic ● All 20 Goals for MANCHESTER UNITED - 2016/17'}",public,rectangular,True,2017-01-15T18:16:41.000Z,,"[Ibra, ibrahimovic, zlatan, ibrahimovic goal, ibrahimovic manchester united, ibrahimovic goal vs Liverpool, ibrahimovic goal vs Liverpool 1-1, ibrahimovic all goals, ibrahimovic sunderland, ibrahimovic europa league, ibrahimovic goal west ham, ibrahimovic skills, ibrahimovic united, ibrahimovic vs, ibrahimovic vs fenerbahçe, ibrahimovic vs burnley, ibrahimovic vs man city, ibrahimovic 16/17, ibrahimovic 2017, ibrahimovic zorya, ibrahimovic everton]",Zlatan Ibrahimovic ● All 20 Goals for MANCHESTER UNITED - 2016/17,ofbaRS29ULI,13044
+5,,,,23663,32,4709173,,,,,,,,,,,,,,,,,,,
+6,17,UCcmYYg3Rzfg3x8HKG5FhbtA,sportsUwant,,,,15,,sd,SUBSCRIBE TO MY CHANNEL !,3,PT23M32S,0,27,none,"{u'description': u'SUBSCRIBE TO MY CHANNEL !', u'title': u'Manchester United 1:1 Liverpool Full Post Match Analysis | Sky sports | 01.15.2017'}",public,rectangular,True,2017-01-15T18:47:18.000Z,,"[PREMIER, LEAGUE, PRESS, CONFERENCE, MANCHESTER, UNITED, CHELSEA, LIVERPOOL, ARSENAL, CITY, JOSE, MOURINHO, PEP, GUARDIOLA, ARSENE, WENGER, ANTONIO, CONTE, JURGEN, KLOPP, INTERVIEW]",Manchester United 1:1 Liverpool Full Post Match Analysis | Sky sports | 01.15.2017,_5tKgyAOQDU,8862
+7,,,,1184,59,1597342,,,,,,,,,,,,,,,,,,,
+8,17,UCdfEuCGoVdDIbkiqC_RppgQ,iKhoStyle7i HD,,,,11,,hd,"Zlatan Ibrahimović All Goals | Manchester United 2016/2017 HD
+
+
+
+Manchester United vs Liverpool 1-1 All Goals & Highlights Premier League 15/01/2017
+
+Everton vs Manchester City 4-0 All Goals & Highlights Premier League 15/01/2017 HD
+
+Manchester United vs Liverpool 1-1 All Goals & Highlights Manchester United vs Liverpool 1-1 All Goals & Highlights 
+Manchester United vs Liverpool 1-1 All Goals & Highlights Manchester United vs Liverpool 1-1 All Goals & Highlights 
+Manchester United vs Liverpool 1-1 All Goals & Highlights 
+Zlatan Ibrahimović Goal - Manchester United vs Liverpool 1-1 Premier League 15/01/2017 HD
+Zlatan Ibrahimović Goal - Manchester United vs Liverpool 1-1 Premier League 15/01/2017 HD
+Zlatan Ibrahimović Goal - Manchester United vs Liverpool 1-1 Premier League 15/01/2017 HD
+
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 All Goals 
+Manchester United vs Liverpool 1-1 All Goals 
+Manchester United vs Liverpool 1-1 All Goals 
+James Milner Goal - Manchester United vs Liverpool 1-1 Premier League 15/01/2017 HD
+James Milner Goal - Manchester United vs Liverpool 1-1 Premier League 15/01/2017 HD
+James Milner Goal - Manchester United vs Liverpool 1-1 Premier League 15/01/2017 HD
+Goal Ibrahimovic Manchester United vs Liverpool 1-1 Goals & Highlights 15.01.2017
+Goal Ibrahimovic Manchester United vs Liverpool 1-1 Goals & Highlights 15.01.2017
+Goal Ibrahimovic Manchester United vs Liverpool 1-1 Goals & Highlights 15.01.2017
+Manchester United 1-1 Liverpool All Goals & Extended Highlights Manchester United 1-1 Liverpool All Goals & Extended Highlights 
+Manchester United 1-1 Liverpool All Goals & Extended Highlights 
+Manchester United 1-1 Liverpool All Goals & Extended Highlights 
+Manchester United 1-1 Liverpool All Goals & Extended Highlights 
+Manchester United 1-1 Liverpool All Goals & Extended Highlights 
+Manchester United 1-1 Liverpool All Goals & Extended Highlights 
+Manchester United 1-1 Liverpool All Goals & Extended Highlights 
+Manchester United 1-1 Liverpool All Goals & Highlights 
+Manchester United 1-1 Liverpool All Goals & Highlights 
+Manchester United 1-1 Liverpool All Goals & Highlights 
+Manchester United vs Liverpool 1-1 17/10/2016 HD
+Manchester United vs Liverpool 1-1 17/10/2016 HD
+Manchester United vs Liverpool 1-1 17/10/2016 HD
+Manchester United vs Liverpool 1:1 2017 - All Goals & Highlights (Premier League) 15/01/2017 HD
+Manchester United vs Liverpool 1:1 2017 - All Goals & Highlights (Premier League) 15/01/2017 HD
+Manchester United vs Liverpool 1:1 2017 - All Goals & Highlights (Premier League) 15/01/2017 HD
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United 1-1 Liverpool Highlights 
+Manchester United 1-1 Liverpool Highlights 
+Manchester United 1-1 Liverpool All Goals 
+Manchester United 1-1 Liverpool All Goals
+Manchester United 1-1 Liverpool All Goals 
+Manchester United 1-1 Liverpool All Goals
+MANCHESTER UNITED 1-1 LIVERPOOL - MOURINHO vs KLOPP! - PREMIER LEAGUE 2016-17 - ANALYSIS",6,PT6M7S,0,66,none,"{u'description': u'Zlatan Ibrahimović All Goals | Manchester United 2016/2017 HD
+
+
+
+Manchester United vs Liverpool 1-1 All Goals & Highlights Premier League 15/01/2017
+
+Everton vs Manchester City 4-0 All Goals & Highlights Premier League 15/01/2017 HD
+
+Manchester United vs Liverpool 1-1 All Goals & Highlights Manchester United vs Liverpool 1-1 All Goals & Highlights 
+Manchester United vs Liverpool 1-1 All Goals & Highlights Manchester United vs Liverpool 1-1 All Goals & Highlights 
+Manchester United vs Liverpool 1-1 All Goals & Highlights 
+Zlatan Ibrahimović Goal - Manchester United vs Liverpool 1-1 Premier League 15/01/2017 HD
+Zlatan Ibrahimović Goal - Manchester United vs Liverpool 1-1 Premier League 15/01/2017 HD
+Zlatan Ibrahimović Goal - Manchester United vs Liverpool 1-1 Premier League 15/01/2017 HD
+
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 All Goals 
+Manchester United vs Liverpool 1-1 All Goals 
+Manchester United vs Liverpool 1-1 All Goals 
+James Milner Goal - Manchester United vs Liverpool 1-1 Premier League 15/01/2017 HD
+James Milner Goal - Manchester United vs Liverpool 1-1 Premier League 15/01/2017 HD
+James Milner Goal - Manchester United vs Liverpool 1-1 Premier League 15/01/2017 HD
+Goal Ibrahimovic Manchester United vs Liverpool 1-1 Goals & Highlights 15.01.2017
+Goal Ibrahimovic Manchester United vs Liverpool 1-1 Goals & Highlights 15.01.2017
+Goal Ibrahimovic Manchester United vs Liverpool 1-1 Goals & Highlights 15.01.2017
+Manchester United 1-1 Liverpool All Goals & Extended Highlights Manchester United 1-1 Liverpool All Goals & Extended Highlights 
+Manchester United 1-1 Liverpool All Goals & Extended Highlights 
+Manchester United 1-1 Liverpool All Goals & Extended Highlights 
+Manchester United 1-1 Liverpool All Goals & Extended Highlights 
+Manchester United 1-1 Liverpool All Goals & Extended Highlights 
+Manchester United 1-1 Liverpool All Goals & Extended Highlights 
+Manchester United 1-1 Liverpool All Goals & Extended Highlights 
+Manchester United 1-1 Liverpool All Goals & Highlights 
+Manchester United 1-1 Liverpool All Goals & Highlights 
+Manchester United 1-1 Liverpool All Goals & Highlights 
+Manchester United vs Liverpool 1-1 17/10/2016 HD
+Manchester United vs Liverpool 1-1 17/10/2016 HD
+Manchester United vs Liverpool 1-1 17/10/2016 HD
+Manchester United vs Liverpool 1:1 2017 - All Goals & Highlights (Premier League) 15/01/2017 HD
+Manchester United vs Liverpool 1:1 2017 - All Goals & Highlights (Premier League) 15/01/2017 HD
+Manchester United vs Liverpool 1:1 2017 - All Goals & Highlights (Premier League) 15/01/2017 HD
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United 1-1 Liverpool Highlights 
+Manchester United 1-1 Liverpool Highlights 
+Manchester United 1-1 Liverpool All Goals 
+Manchester United 1-1 Liverpool All Goals
+Manchester United 1-1 Liverpool All Goals 
+Manchester United 1-1 Liverpool All Goals
+MANCHESTER UNITED 1-1 LIVERPOOL - MOURINHO vs KLOPP! - PREMIER LEAGUE 2016-17 - ANALYSIS', u'title': u'Zlatan Ibrahimović All Goals | Manchester United 2016/2017 HD'}",public,rectangular,False,2017-01-15T22:21:34.000Z,,"[Zlatan Ibrahimović All Goals | Manchester United 2016/2017 HD, Zlatan Ibrahimović All Goals, Manchester United 2016/2017, Manchester United vs Liverpool 1-1 Highlights, Zlatan Ibrahimovic Goal]",Zlatan Ibrahimović All Goals | Manchester United 2016/2017 HD,iVPIZtqeQNk,14051
+9,,,,28773,213,17045787,,,,,,,,,,,,,,,,,,,
+10,17,UC7w8GnTF2Sp3wldDMtCCtVw,FullTimeDEVILS,,,,146,en-GB,hd,"Transfer Daily is here!!! - Separating the facts from the b*llocks!
+Why is The Sun determined to see Marcus Rashford get a loan move? Matic bid in Summer? Ashley Young to China? Get your view in below!
+
+Subscribe, FREE, for more MUFC: http://bit.ly/DEVILSsub
+Subscribe to The Football Republic: http://bit.ly/1Nsw8Uq
+
+About FullTimeDEVILS:
+We are YouTube's largest football fan channel, made for Manchester United fans and bringing you big match previews, post-match reaction and reviews, tactical analysis, player debates and much more! If you're a red, we want you to get involved; whatever you want to say about United you can say it in the comments below. And to become one of our Devil pundits and be on the shows,here's how you can get in touch:
+Twitter: https://twitter.com/FullTimeDEVILS
+Facebook: https://www.facebook.com/FullTimeDEVILS
+G+: https://plus.google.com/+FullTimeDevils",13,PT16M40S,0,551,none,"{u'description': u'Transfer Daily is here!!! - Separating the facts from the b*llocks!
+Why is The Sun determined to see Marcus Rashford get a loan move? Matic bid in Summer? Ashley Young to China? Get your view in below!
+
+Subscribe, FREE, for more MUFC: http://bit.ly/DEVILSsub
+Subscribe to The Football Republic: http://bit.ly/1Nsw8Uq
+
+About FullTimeDEVILS:
+We are YouTube's largest football fan channel, made for Manchester United fans and bringing you big match previews, post-match reaction and reviews, tactical analysis, player debates and much more! If you're a red, we want you to get involved; whatever you want to say about United you can say it in the comments below. And to become one of our Devil pundits and be on the shows,here's how you can get in touch:
+Twitter: https://twitter.com/FullTimeDEVILS
+Facebook: https://www.facebook.com/FullTimeDEVILS
+G+: https://plus.google.com/+FullTimeDevils', u'title': u'Rashford Loan Talk Again?!?! Matic, Young to China? | Manchester United Transfer News | TD #11'}",public,rectangular,True,2017-01-16T09:22:32.000Z,,"[Manchester United, Manchester, Man Utd, Football, Soccer, fulltimedevils, Andy Tate, Full Time Devils, Manchester United News, Transfer News, United, Man United, Mourinho, MUFC, Manchester United transfer news, Man United transfer news, Rashford, Marcus Rashford, Rashford loan, Matic, Matic transfer, Matic Man United, Ashley Young, Young, Young transfer]","Rashford Loan Talk Again?!?! Matic, Young to China? | Manchester United Transfer News | TD #11",MznUiXA3WAg,16193
+11,,,,325143,3883,121613952,,,,,,,,,,,,,,,,,,,
+12,17,UCTfo-i9DJYa0Zl4jfmK_OrQ,Footy MOTD 3,,,,40,,hd,"Facebook - https://www.facebook.com/FullMatchesAndShows/
+
+Mark Chapman presents highlights of Liverpool's trip to Old Trafford where the Reds title credentials will be tested by Manchester United. City rivals Everton host Manchester City in the other Premier League clash with City manager Pep Guardiola hoping his side can sustain a title challenge.",0,PT40M53S,0,108,none,"{u'description': u'Facebook - https://www.facebook.com/FullMatchesAndShows/
+
+Mark Chapman presents highlights of Liverpool's trip to Old Trafford where the Reds title credentials will be tested by Manchester United. City rivals Everton host Manchester City in the other Premier League clash with City manager Pep Guardiola hoping his side can sustain a title challenge.', u'title': u'BBC ◘ MOTD 2 ◘ Manchester United ,Liverpool ,Manchester City & more ◘ Week 21 ►► 15.01.2017 HD'}",public,rectangular,True,2017-01-16T05:11:11.000Z,"{u'blocked': [u'GB', u'IM', u'JE', u'GG']}","[jose, mourinho, jurgen, klop, felliani, zlatan, manchester, united, city, liverpool, derby, analysis, diego, costa, antonio, conte, chelsea, fight, burstup, payet, andy, carrol, jose mourinho, ibra, Zlatan, neymar, Paul Pogba, hugo, loris, england, Messi, Gareth, Bale, foul, red, card, lukas, pep, guardiola, ozil, leap, wayne rooney, sergio, ramos, iniesta, konte, ronaldo, goal, camera, bale, navas, Jurgen Klopp, manchester city, aguero, red card, sanchez, rashford, marcus, rooney]","BBC ◘ MOTD 2 ◘ Manchester United ,Liverpool ,Manchester City & more ◘ Week 21 ►► 15.01.2017 HD",3H9BGqAw8Co,17638
+13,,,,15289,30,311429,,,,,,,,,,,,,,,,,,,
+14,17,UCfvLH5R0Rv_GWldg_YfYacA,Tekkerz kid,,,,1692,,hd,"New to the channel? Subscribe to Tekkerz Kid
+HERE►►►http://bit.ly/Sub2TKRZ
+
+So today it's the derby between Manchester United and Liverpool!! Earlier in the season, Liverpool drew 1-1 with Man UTD at Anfield. We thought it would be fun to have a prediction of WHO WILL WIN! Whoever wins this game will win the match this evening!!!
+
+You can now send Fan mail to my NEW PO Box address
+Send to:
+PO Box 17235
+BIRMINGHAM
+B18 9HD
+
+Just Label it ""Tekkerz Kid"" & I'll be putting the things you send me into my videos!!
+
+Subscribe to our New Channel
+Meet The Greers ►http://bit.ly/Sub2Greers
+
+Check Out Romello's New Forza Horizon 3 Video!!
+https://www.youtube.com/watch?v=RE5xT8YWyQs&t=237s
+---------------------------------------------------------------------------------------------------
+Special Thanks to Lovell Soccer
+Visit Lovell Soccer
+Here ►http://www.Lovellsoccer.co.uk
+For 10% OFF your order use Discount Code - TEKKERZKID10
+------------------------------------------------------------------------------------------------------
+Follow Tekkerz Kid Across social media platforms!
+►Instagram - http://bit.ly/TKinstagram
+►Facebook - http://bit.ly/tkzrFB
+►Twitter - http://bit.ly/TkzrTweet",158,PT21M43S,0,4037,none,"{u'description': u'New to the channel? Subscribe to Tekkerz Kid
+HERE►►►http://bit.ly/Sub2TKRZ
+
+So today it's the derby between Manchester United and Liverpool!! Earlier in the season, Liverpool drew 1-1 with Man UTD at Anfield. We thought it would be fun to have a prediction of WHO WILL WIN! Whoever wins this game will win the match this evening!!!
+
+You can now send Fan mail to my NEW PO Box address
+Send to:
+PO Box 17235
+BIRMINGHAM
+B18 9HD
+
+Just Label it ""Tekkerz Kid"" & I'll be putting the things you send me into my videos!!
+
+Subscribe to our New Channel
+Meet The Greers ►http://bit.ly/Sub2Greers
+
+Check Out Romello's New Forza Horizon 3 Video!!
+https://www.youtube.com/watch?v=RE5xT8YWyQs&t=237s
+---------------------------------------------------------------------------------------------------
+Special Thanks to Lovell Soccer
+Visit Lovell Soccer
+Here ►http://www.Lovellsoccer.co.uk
+For 10% OFF your order use Discount Code - TEKKERZKID10
+------------------------------------------------------------------------------------------------------
+Follow Tekkerz Kid Across social media platforms!
+►Instagram - http://bit.ly/TKinstagram
+►Facebook - http://bit.ly/tkzrFB
+►Twitter - http://bit.ly/TkzrTweet', u'title': u'Manchester United vs Liverpool 2017 | FIFA 17 Prediction!!'}",public,rectangular,True,2017-01-15T11:16:59.000Z,,"[Manchester United vs Liverpool, Man utd vs liverpool, man utd v liverpool, Manchester united vs Liverpool 2017, Manchester derby, Man utd vs liverpool 15.01.2017, man utd vs livepool 15/1/2017, Manchester united vs liverpool highlights, EPL Highlights, Manchester united vs liverpool live, FIFA 17, FIFA 17 gameplay, tekkerz kid, its romello, fifa prediction, FIFA 17 FUT, TOTY]",Manchester United vs Liverpool 2017 | FIFA 17 Prediction!!,A7G2X08ENjU,151230
+15,,,,244887,131,36624919,,,,,,,,,,,,,,,,,,,
+16,20,UCOEnX_NPjS8qgQTo0uVwdyQ,FootyManagerTV,,,,77,,hd,"Buy cheap and safe FIFA 17 Coins and Points here! http://www.mmorog.com, Use code ""FMTV"" get 6% discount!
+✪ SUBSCRIBE FOR DAILY FIFA 17 CAREER MODE VIDEOS! ✪
+---------------------------------------------------------------------------------------
+
+Welcome to my FIFA 17 Career Mode with Manchester United!
+
+This Career Mode series in FIFA 17 will be focusing on taking Manchester United back to the top as the best team in England, also in Europe achieving Champions League success.
+
+This Manchester United team has a mix of class players with the likes of Zlatan Ibrahimovic, Paul Pogba and David De Gea. Then the high potential young players in Eric Bailly, Marcus Rashford and Anthony Martial. With the assist of these talents I will look to make a new history with Manchester United in this FIFA 17 Career Mode series!
+
+­
+═══════════ ✪ FIFA 17 Playlists ✪ ═══════════
+
+FIFA 17 Manchester United Career Mode | Playlist - https://www.youtube.com/playlist?list=PLQARbeRpn0ehvux9RVDle8PGdxku1IJ3S
+FIFA 17 RB Leipzig Career Mode | Playlist -  https://www.youtube.com/playlist?list=PLQARbeRpn0ejSTI11scxmUl8oJngb7Fkd
+FIFA 17 Career Mode Growth Tests | Playlist - https://www.youtube.com/playlist?list=PLQARbeRpn0ejyVw53MdQcoBZ07GwpMRHx
+
+---------------------------------------------------------------------------------------
+
+More FIFA 17 Career Mode videos on my channel:
+
+FIFA 17 Career Mode Best High Potential Young Players - https://www.youtube.com/watch?v=9NTdI-pKlw4
+
+---------------------------------------------------------------------------------------
+
+Thumbnail made by - http://www.youtube.com/WOLFE3Y 
+
+═══════════ ✪ Contact Info ✪ ═══════════
+
+Twitter - @FootyManagerTV
+Business Email - footymanagertv@gmail.com",7,PT22M50S,0,217,none,"{u'description': u'Buy cheap and safe FIFA 17 Coins and Points here! http://www.mmorog.com, Use code ""FMTV"" get 6% discount!
+✪ SUBSCRIBE FOR DAILY FIFA 17 CAREER MODE VIDEOS! ✪
+---------------------------------------------------------------------------------------
+
+Welcome to my FIFA 17 Career Mode with Manchester United!
+
+This Career Mode series in FIFA 17 will be focusing on taking Manchester United back to the top as the best team in England, also in Europe achieving Champions League success.
+
+This Manchester United team has a mix of class players with the likes of Zlatan Ibrahimovic, Paul Pogba and David De Gea. Then the high potential young players in Eric Bailly, Marcus Rashford and Anthony Martial. With the assist of these talents I will look to make a new history with Manchester United in this FIFA 17 Career Mode series!
+
+­
+═══════════ ✪ FIFA 17 Playlists ✪ ═══════════
+
+FIFA 17 Manchester United Career Mode | Playlist - https://www.youtube.com/playlist?list=PLQARbeRpn0ehvux9RVDle8PGdxku1IJ3S
+FIFA 17 RB Leipzig Career Mode | Playlist -  https://www.youtube.com/playlist?list=PLQARbeRpn0ejSTI11scxmUl8oJngb7Fkd
+FIFA 17 Career Mode Growth Tests | Playlist - https://www.youtube.com/playlist?list=PLQARbeRpn0ejyVw53MdQcoBZ07GwpMRHx
+
+---------------------------------------------------------------------------------------
+
+More FIFA 17 Career Mode videos on my channel:
+
+FIFA 17 Career Mode Best High Potential Young Players - https://www.youtube.com/watch?v=9NTdI-pKlw4
+
+---------------------------------------------------------------------------------------
+
+Thumbnail made by - http://www.youtube.com/WOLFE3Y 
+
+═══════════ ✪ Contact Info ✪ ═══════════
+
+Twitter - @FootyManagerTV
+Business Email - footymanagertv@gmail.com', u'title': u'FIFA 17 Career Mode: Manchester United #49 - Champions League Semi Final vs City (FIFA 17 Gameplay)'}",public,rectangular,False,2017-01-16T11:21:28.000Z,,"[fifa 17 career mode, fifa 17, fifa, fifa 17 career mode ep 1, fifa 17 career mode player, fifa 17 career mode glitch, fifa 17 career mode best young players, fifa 17 team of the year, fifa 17 best young players, fifa 17 best cheap players career mode, fifa 17 highest potential youngsters career mode, fifa 17 best players in career mode, fifa 17 Karrieremodus ep 1, fifa 17 Karrieremodus Spieler, fifa 17 Karrieremodus beste junge Spieler, fifa 17 karrieremodus, champions league]",FIFA 17 Career Mode: Manchester United #49 - Champions League Semi Final vs City (FIFA 17 Gameplay),QytOz_9rNGQ,4158
+17,,,,114759,1863,21798855,,,,,,,,,,,,,,,,,,,
+18,17,UCiVg6vRhuyjsWgHkDNOig6A,BeanymanSports,,,,256,en-GB,hd,"Post-match press conference with Manchester United manager Jose Mourinho following his side's 1-1 draw with Liverpool in the Premier League.
+
+Please subscribe, like the video and share wherever you can!
+
+If you want to support my channel you can donate here = https://www.patreon.com/BeanymanSports
+
+I own the rights to this footage, DO NOT copy and re-upload this video otherwise copyright strikes and legal action will be taken.
+
+To make sure you don't miss any of my videos
+on this and my other channels please :
+
+Subscribe to this channel : http://bit.ly/BeanymanSportsSub
+Follow me on Twitter : http://www.twitter.com/BeanymanSports
+Check out my website : http://www.BeanymanSports.com
+Like me on Facebook : https://www.facebook.com/BeanymanSports
+Follow me on Google+ : https://plus.google.com/+BeanymanSports
+
+Check out my App! It's free to download
+
+AppStore = https://itunes.apple.com/gb/app/beanymansports/id1162555232?mt=8
+Google Play = https://play.google.com/store/apps/details?id=co.veam.veam31004550
+
+Thanks",52,PT8M24S,0,461,none,"{u'description': u'Post-match press conference with Manchester United manager Jose Mourinho following his side's 1-1 draw with Liverpool in the Premier League.
+
+Please subscribe, like the video and share wherever you can!
+
+If you want to support my channel you can donate here = https://www.patreon.com/BeanymanSports
+
+I own the rights to this footage, DO NOT copy and re-upload this video otherwise copyright strikes and legal action will be taken.
+
+To make sure you don't miss any of my videos
+on this and my other channels please :
+
+Subscribe to this channel : http://bit.ly/BeanymanSportsSub
+Follow me on Twitter : http://www.twitter.com/BeanymanSports
+Check out my website : http://www.BeanymanSports.com
+Like me on Facebook : https://www.facebook.com/BeanymanSports
+Follow me on Google+ : https://plus.google.com/+BeanymanSports
+
+Check out my App! It's free to download
+
+AppStore = https://itunes.apple.com/gb/app/beanymansports/id1162555232?mt=8
+Google Play = https://play.google.com/store/apps/details?id=co.veam.veam31004550
+
+Thanks', u'title': u'Manchester United 1-1 Liverpool - Jose Mourinho Full Post Match Press Conference'}",public,rectangular,True,2017-01-15T19:19:20.000Z,,"[Football, Soccer, Beanyman, BeanymanSports, manchester, jose, mourinho, liverpool, premier, Jose Mourinho, manchester United, Liverpool, Premier League, Sports]",Manchester United 1-1 Liverpool - Jose Mourinho Full Post Match Press Conference,69_FxIbE9Wk,60361
+19,,,,156693,2299,99212423,,,,,,,,,,,,,,,,,,,
+20,24,UCOYXMJcUXo58HmJN1vuzKUA,JOE_co_uk,,,,5,,hd,,0,PT35S,0,48,none,"{u'description': u'', u'title': u'Manchester United vs Liverpool White Chicks dance off'}",public,rectangular,True,2017-01-15T10:07:21.000Z,,"[Manchester United, Liverpool, Jurgen Klopp, Jose Mourinho]",Manchester United vs Liverpool White Chicks dance off,OMaJk-fMNk4,4307
+21,,,,3156,79,2188414,,,,,,,,,,,,,,,,,,,
+22,17,UCWW3QH_lhOHxb6-97Uen96g,Everything MUFC,,,,58,en-GB,hd,"Jose, Henrikh and Phil share their thoughts on the 1-1 draw against Liverpool.
+
+Twitter: https://mobile.twitter.com/everythingmufc3",5,PT7M14S,0,289,none,"{u'description': u'Jose, Henrikh and Phil share their thoughts on the 1-1 draw against Liverpool.
+
+Twitter: https://mobile.twitter.com/everythingmufc3', u'title': u'Interviews with Jose Mourinho, Henrikh Mkhitaryan and Phil Jones - Manchester United 1-1 Liverpool'}",public,rectangular,True,2017-01-15T20:18:25.000Z,,"[Jose Mourinho, Manchester United, MUFC, man united, man utd, Football, Soccer, EPL, BPL, Premier League, Liverpool, Phil Jones, Henrikh Mkhitaryan, Zlatan Ibrahimovic, Paul Pogba]","Interviews with Jose Mourinho, Henrikh Mkhitaryan and Phil Jones - Manchester United 1-1 Liverpool",Wm98fkgpbN8,21970
+23,,,,17566,4,39129,,,,,,,,,,,,,,,,,,,
+24,17,UC7w8GnTF2Sp3wldDMtCCtVw,FullTimeDEVILS,,,,507,en-GB,hd,"Jose Mourinho and Jurgen Klopp go at it over long balls! Full Time Review! The place where we take a considered look at the weekends game. Comment below to have your say!
+
+Subscribe to Statman Dave here: http://bit.ly/DOBTVsub
+
+Submit your 30 sec ""United on YouTube"" video AFTER STOKE to fulltimedevils@gmail.com with your channel name :)
+
+Subscribe, FREE, for more MUFC: http://bit.ly/DEVILSsub
+Subscribe to The Football Republic: http://bit.ly/1Nsw8Uq
+
+LONG BALL UNITED? Full Time Review | Manchester United 1-1 Liverpool
+
+About FullTimeDEVILS:
+We are YouTube's largest football fan channel, made for Manchester United fans and bringing you big match previews, post-match reaction and reviews, tactical analysis, player debates and much more! If you're a red, we want you to get involved; whatever you want to say about United you can say it in the comments below. And to become one of our Devil pundits and be on the shows,here's how you can get in touch:
+Twitter: https://twitter.com/FullTimeDEVILS
+Facebook: https://www.facebook.com/FullTimeDEVILS
+G+: https://plus.google.com/+FullTimeDevils",61,PT10M26S,0,910,none,"{u'description': u'Jose Mourinho and Jurgen Klopp go at it over long balls! Full Time Review! The place where we take a considered look at the weekends game. Comment below to have your say!
+
+Subscribe to Statman Dave here: http://bit.ly/DOBTVsub
+
+Submit your 30 sec ""United on YouTube"" video AFTER STOKE to fulltimedevils@gmail.com with your channel name :)
+
+Subscribe, FREE, for more MUFC: http://bit.ly/DEVILSsub
+Subscribe to The Football Republic: http://bit.ly/1Nsw8Uq
+
+LONG BALL UNITED? Full Time Review | Manchester United 1-1 Liverpool
+
+About FullTimeDEVILS:
+We are YouTube's largest football fan channel, made for Manchester United fans and bringing you big match previews, post-match reaction and reviews, tactical analysis, player debates and much more! If you're a red, we want you to get involved; whatever you want to say about United you can say it in the comments below. And to become one of our Devil pundits and be on the shows,here's how you can get in touch:
+Twitter: https://twitter.com/FullTimeDEVILS
+Facebook: https://www.facebook.com/FullTimeDEVILS
+G+: https://plus.google.com/+FullTimeDevils', u'title': u'LONG BALL UNITED? Full Time Review | Manchester United 1-1 Liverpool'}",public,rectangular,True,2017-01-16T15:06:32.000Z,,"[Manchester United, Manchester, Man Utd, Football, Soccer, fulltimedevils, Andy Tate, Full Time Devils, Manchester United News, Transfer News, United, Man United, Mourinho, MUFC, Liverpool, Liverpool FC, Scousers, Manchester United 1-1 Liverpool, Man United 1-1 Liverpool, United 1-1 Liverpool, 1-1, Premier League, Old Trafford, Jurgen Klopp, Klopp, Jose Mourinho, Zlatan Ibrahimovic goal, Zlatan goal, Matip, Coutinho, goals, goal, highlights, live stream, live, stream, vs]",LONG BALL UNITED? Full Time Review | Manchester United 1-1 Liverpool,YA-gdmlTNbI,24774
+25,,,,325143,3883,121613952,,,,,,,,,,,,,,,,,,,
+26,22,UCmX3073pl-9ASXYaWDrEAHw,Stephen Howson,,,,262,,hd,"Here's my review of United 1-1 Liverpool. I've calmed down a little since my fan cam, but I'm still pissed off. Massive opportunity missed for us tonight. But still a long old way to go.  
+
+We're Out Of The Race! | Manchester United 1-1 Liverpool | REVIEW",21,PT10M44S,0,518,none,"{u'description': u'Here's my review of United 1-1 Liverpool. I've calmed down a little since my fan cam, but I'm still pissed off. Massive opportunity missed for us tonight. But still a long old way to go.  
+
+We're Out Of The Race! | Manchester United 1-1 Liverpool | REVIEW', u'title': u'We're Out Of The Race! | Manchester United 1-1 Liverpool | REVIEW'}",public,rectangular,True,2017-01-15T23:07:22.000Z,,"[we're out of the race, manchester united 1-1 liverpool, review, stephen howson, fulltimedevils, full time devils, manchester united, man utd, football, soccer, man united, mufc academy, manchester united academy, howson ftd, Liverpool, Liverpool FC, Scousers, Manchester United 1-1 Liverpool, Man United 1-1 Liverpool, United 1-1 Liverpool, Premier League, Old Trafford, Jurgen Klopp, Klopp, Jose Mourinho, Zlatan goal, Matip, Coutinho, goals, goal, highlights, live stream, live, stream, vs]",We're Out Of The Race! | Manchester United 1-1 Liverpool | REVIEW,oKFtcyHHKKI,14284
+27,,,,28226,258,2953880,,,,,,,,,,,,,,,,,,,
+28,17,UCNT2e7Og56vm5_V-yJWvglA,FATV,,,,150,,hd,"Subscribe to FATV: http://bit.ly/FATVSub
+
+Manchester United 4-0 Reading - Emirates FA Cup 2016/17 Third Round.
+
+Highlights from the Third Round of the 2016/17 Emirates FA Cup match between Manchester United and Reading. 
+
+The Emirates FA Cup 2016/17 - 3rd Round Goals & Highlights
+https://www.youtube.com/playlist?list=PLH4hJ2GPUXQU1qWnxIlb7sb9fjatQxHHX
+
+The Emirates FA Cup 2016/17 - All Goals & Highlights
+https://www.youtube.com/playlist?list=PLH4hJ2GPUXQVrQBRcW8PR7QJ--XX_fMNP
+
+The FA: http://www.thefa.com
+Wembley Stadium: http://www.wembleystadium.com
+
+TWITTER
+The FA: http://www.twitter.com/fa
+The England Football Team: http://www.twitter.com/england
+Wembley Stadium: http://www.twitter.com/wembleystadium
+The FA WSL: http://www.twitter.com/fawsl
+
+FACEBOOK
+The FA Cup: http://www.facebook.com/thefacup
+The England Football Team: http://www.facebook.com/englandteam
+The England Women’s Football Team: http://www.facebook.com/englandwomen
+The FA WSL: http://www.facebook.com/fawsl
+Wembley Stadium: http://www.facebook.com/wembleystadium
+
+INSTAGRAM
+The England Football Team: http://www.instagram.com/england",49,PT4M6S,0,1708,none,"{u'description': u'Subscribe to FATV: http://bit.ly/FATVSub
+
+Manchester United 4-0 Reading - Emirates FA Cup 2016/17 Third Round.
+
+Highlights from the Third Round of the 2016/17 Emirates FA Cup match between Manchester United and Reading. 
+
+The Emirates FA Cup 2016/17 - 3rd Round Goals & Highlights
+https://www.youtube.com/playlist?list=PLH4hJ2GPUXQU1qWnxIlb7sb9fjatQxHHX
+
+The Emirates FA Cup 2016/17 - All Goals & Highlights
+https://www.youtube.com/playlist?list=PLH4hJ2GPUXQVrQBRcW8PR7QJ--XX_fMNP
+
+The FA: http://www.thefa.com
+Wembley Stadium: http://www.wembleystadium.com
+
+TWITTER
+The FA: http://www.twitter.com/fa
+The England Football Team: http://www.twitter.com/england
+Wembley Stadium: http://www.twitter.com/wembleystadium
+The FA WSL: http://www.twitter.com/fawsl
+
+FACEBOOK
+The FA Cup: http://www.facebook.com/thefacup
+The England Football Team: http://www.facebook.com/englandteam
+The England Women’s Football Team: http://www.facebook.com/englandwomen
+The FA WSL: http://www.facebook.com/fawsl
+Wembley Stadium: http://www.facebook.com/wembleystadium
+
+INSTAGRAM
+The England Football Team: http://www.instagram.com/england', u'title': u'Manchester United 4-0 Reading - Emirates FA Cup 2016/17 (R3) | Goals & Highlights'}",public,rectangular,True,2017-01-08T12:00:01.000Z,,"[football, soccer, fa cup, fatv, FA Cup 2016/17, Emirates fa cup highlights, best moments, fa cup third round highlights, fa cup round 3 highlights, fa cup 3rd round, 2016/17 emirates fa cup round 3, manchester united fa cup, man united fa cup 3rd round, reading fa cup, reading fa cup 3rd round, sp:ty=high, sp:dt=2017-01-07T07:30:00-05:00, sp:vl=en-US, sp:st=soccer, sp:li=eng_fa_cup, sp:ti:home=Man, sp:ti:away=REA, rashford fa cup, roone fa cup, martial fa cup]",Manchester United 4-0 Reading - Emirates FA Cup 2016/17 (R3) | Goals & Highlights,MrSN6gdGilo,251560
+29,,,,286549,2646,126108305,,,,,,,,,,,,,,,,,,,
+30,17,UCncTl_C9FWQPgumLhpPYFfw,TheR3dDevils,,,,,,sd,"Manchester United 1:1 Liverpool - Full Post Match Analysis | Sky Sports 15.01.2017 video credit https://www.youtube.com/channel/UC0WImG4jwqxNzOKp1Y5Cxqw
+
+
+Manchester United vs Liverpool 1-1 All Goals & Highlights Premier League 15/01/2017
+
+Everton vs Manchester City 4-0 All Goals & Highlights Premier League 15/01/2017 HD
+
+Manchester United vs Liverpool 1-1 All Goals & Highlights Manchester United vs Liverpool 1-1 All Goals & Highlights 
+Manchester United vs Liverpool 1-1 All Goals & Highlights Manchester United vs Liverpool 1-1 All Goals & Highlights 
+Manchester United vs Liverpool 1-1 All Goals & Highlights 
+Zlatan Ibrahimović Goal - Manchester United vs Liverpool 1-1 Premier League 15/01/2017 HD
+Zlatan Ibrahimović Goal - Manchester United vs Liverpool 1-1 Premier League 15/01/2017 HD
+Zlatan Ibrahimović Goal - Manchester United vs Liverpool 1-1 Premier League 15/01/2017 HD
+
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 All Goals 
+Manchester United vs Liverpool 1-1 All Goals 
+Manchester United vs Liverpool 1-1 All Goals 
+James Milner Goal - Manchester United vs Liverpool 1-1 Premier League 15/01/2017 HD
+James Milner Goal - Manchester United vs Liverpool 1-1 Premier League 15/01/2017 HD
+James Milner Goal - Manchester United vs Liverpool 1-1 Premier League 15/01/2017 HD
+Goal Ibrahimovic Manchester United vs Liverpool 1-1 Goals & Highlights 15.01.2017
+Goal Ibrahimovic Manchester United vs Liverpool 1-1 Goals & Highlights 15.01.2017
+Goal Ibrahimovic Manchester United vs Liverpool 1-1 Goals & Highlights 15.01.2017
+Manchester United 1-1 Liverpool All Goals & Extended Highlights Manchester United 1-1 Liverpool All Goals & Extended Highlights 
+Manchester United 1-1 Liverpool All Goals & Extended Highlights 
+Manchester United 1-1 Liverpool All Goals & Extended Highlights 
+Manchester United 1-1 Liverpool All Goals & Extended Highlights 
+Manchester United 1-1 Liverpool All Goals & Extended Highlights 
+Manchester United 1-1 Liverpool All Goals & Extended Highlights 
+Manchester United 1-1 Liverpool All Goals & Extended Highlights 
+Manchester United 1-1 Liverpool All Goals & Highlights 
+Manchester United 1-1 Liverpool All Goals & Highlights 
+Manchester United 1-1 Liverpool All Goals & Highlights 
+Manchester United vs Liverpool 1-1 17/10/2016 HD
+Manchester United vs Liverpool 1-1 17/10/2016 HD
+Manchester United vs Liverpool 1-1 17/10/2016 HD
+Manchester United vs Liverpool 1:1 2017 - All Goals & Highlights (Premier League) 15/01/2017 HD
+Manchester United vs Liverpool 1:1 2017 - All Goals & Highlights (Premier League) 15/01/2017 HD
+Manchester United vs Liverpool 1:1 2017 - All Goals & Highlights (Premier League) 15/01/2017 HD
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United 1-1 Liverpool Highlights 
+Manchester United 1-1 Liverpool Highlights 
+Manchester United 1-1 Liverpool All Goals 
+Manchester United 1-1 Liverpool All Goals
+Manchester United 1-1 Liverpool All Goals 
+Manchester United 1-1 Liverpool All Goals
+MANCHESTER UNITED 1-1 LIVERPOOL - MOURINHO vs KLOPP! - PREMIER LEAGUE 2016-17 - ANALYSIS",8,PT33M11S,0,119,none,"{u'description': u'Manchester United 1:1 Liverpool - Full Post Match Analysis | Sky Sports 15.01.2017 video credit https://www.youtube.com/channel/UC0WImG4jwqxNzOKp1Y5Cxqw
+
+
+Manchester United vs Liverpool 1-1 All Goals & Highlights Premier League 15/01/2017
+
+Everton vs Manchester City 4-0 All Goals & Highlights Premier League 15/01/2017 HD
+
+Manchester United vs Liverpool 1-1 All Goals & Highlights Manchester United vs Liverpool 1-1 All Goals & Highlights 
+Manchester United vs Liverpool 1-1 All Goals & Highlights Manchester United vs Liverpool 1-1 All Goals & Highlights 
+Manchester United vs Liverpool 1-1 All Goals & Highlights 
+Zlatan Ibrahimović Goal - Manchester United vs Liverpool 1-1 Premier League 15/01/2017 HD
+Zlatan Ibrahimović Goal - Manchester United vs Liverpool 1-1 Premier League 15/01/2017 HD
+Zlatan Ibrahimović Goal - Manchester United vs Liverpool 1-1 Premier League 15/01/2017 HD
+
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 Highlights 
+Manchester United vs Liverpool 1-1 All Goals 
+Manchester United vs Liverpool 1-1 All Goals 
+Manchester United vs Liverpool 1-1 All Goals 
+James Milner Goal - Manchester United vs Liverpool 1-1 Premier League 15/01/2017 HD
+James Milner Goal - Manchester United vs Liverpool 1-1 Premier League 15/01/2017 HD
+James Milner Goal - Manchester United vs Liverpool 1-1 Premier League 15/01/2017 HD
+Goal Ibrahimovic Manchester United vs Liverpool 1-1 Goals & Highlights 15.01.2017
+Goal Ibrahimovic Manchester United vs Liverpool 1-1 Goals & Highlights 15.01.2017
+Goal Ibrahimovic Manchester United vs Liverpool 1-1 Goals & Highlights 15.01.2017
+Manchester United 1-1 Liverpool All Goals & Extended Highlights Manchester United 1-1 Liverpool All Goals & Extended Highlights 
+Manchester United 1-1 Liverpool All Goals & Extended Highlights 
+Manchester United 1-1 Liverpool All Goals & Extended Highlights 
+Manchester United 1-1 Liverpool All Goals & Extended Highlights 
+Manchester United 1-1 Liverpool All Goals & Extended Highlights 
+Manchester United 1-1 Liverpool All Goals & Extended Highlights 
+Manchester United 1-1 Liverpool All Goals & Extended Highlights 
+Manchester United 1-1 Liverpool All Goals & Highlights 
+Manchester United 1-1 Liverpool All Goals & Highlights 
+Manchester United 1-1 Liverpool All Goals & Highlights 
+Manchester United vs Liverpool 1-1 17/10/2016 HD
+Manchester United vs Liverpool 1-1 17/10/2016 HD
+Manchester United vs Liverpool 1-1 17/10/2016 HD
+Manchester United vs Liverpool 1:1 2017 - All Goals & Highlights (Premier League) 15/01/2017 HD
+Manchester United vs Liverpool 1:1 2017 - All Goals & Highlights (Premier League) 15/01/2017 HD
+Manchester United vs Liverpool 1:1 2017 - All Goals & Highlights (Premier League) 15/01/2017 HD
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United Vs Liverpool 1-1 All Goals & Extended Highlights - 720p - 15.01.17 
+Manchester United 1-1 Liverpool Highlights 
+Manchester United 1-1 Liverpool Highlights 
+Manchester United 1-1 Liverpool All Goals 
+Manchester United 1-1 Liverpool All Goals
+Manchester United 1-1 Liverpool All Goals 
+Manchester United 1-1 Liverpool All Goals
+MANCHESTER UNITED 1-1 LIVERPOOL - MOURINHO vs KLOPP! - PREMIER LEAGUE 2016-17 - ANALYSIS', u'title': u'Manchester United vs Liverpool 1-1| Full Post Match Analysis | Sky Sports 15/01/2017'}",public,rectangular,True,2017-01-15T19:41:01.000Z,,[Manchester United vs Liverpool],Manchester United vs Liverpool 1-1| Full Post Match Analysis | Sky Sports 15/01/2017,31bllEq9CpU,35369
+31,,,,7433,127,2186295,,,,,,,,,,,,,,,,,,,
+32,17,UCzjbX7BnicGhA5-zUVb1baQ,MANUTD-TV,,,,71,,hd,"Thanks for watching. Don't forget SUBSCRIBE.
+
+Subscribe to my channel now! → https://goo.gl/FauGPV
+
+Facebook → https://www.facebook.com/ImmortalUnited
+Twitter → https://twitter.com/Immortal_United
+Instagram → https://www.instagram.com/immortal_united",22,PT4M54S,0,680,none,"{u'description': u'Thanks for watching. Don't forget SUBSCRIBE.
+
+Subscribe to my channel now! → https://goo.gl/FauGPV
+
+Facebook → https://www.facebook.com/ImmortalUnited
+Twitter → https://twitter.com/Immortal_United
+Instagram → https://www.instagram.com/immortal_united', u'title': u'TOP 10 MANCHESTER UNITED GOALS AGAINST LIVERPOOL'}",public,rectangular,True,2017-01-12T08:37:56.000Z,,"[Manchester United, against, liverpool, man utd, goals, man utd goals]",TOP 10 MANCHESTER UNITED GOALS AGAINST LIVERPOOL,EpTp2DH8rC4,93654
+33,,,,24895,66,5713814,,,,,,,,,,,,,,,,,,,
+34,17,UCIk-KrB_r6b05FrWIQpbV3Q,SPOX,,,,1,de,hd,"Beim 1:1 zwischen Manchester United und dem FC Liverpool wurde es am Ende nochmal hitzig! Mitten drin: Jose Mourinho und Jürgen Klopp. Letzterer erklärt, was ihn so wütend machte.
+
+http://www.spox.com bietet aktuelle Interviews, News, Berichte und Highlights aus der Welt des Sports. Alle Videos gratis auf YouTube! Jetzt abonnieren: http://www.youtube.com/SPORTPORTAL",4,PT44S,0,70,none,"{u'description': u'Beim 1:1 zwischen Manchester United und dem FC Liverpool wurde es am Ende nochmal hitzig! Mitten drin: Jose Mourinho und Jürgen Klopp. Letzterer erklärt, was ihn so wütend machte.
+
+http://www.spox.com bietet aktuelle Interviews, News, Berichte und Highlights aus der Welt des Sports. Alle Videos gratis auf YouTube! Jetzt abonnieren: http://www.youtube.com/SPORTPORTAL', u'title': u'Jürgen Klopp: Darum ging es im Streit mit Jose Mourinho | Manchester United - FC Liverpool 1:1'}",public,rectangular,True,2017-01-16T08:24:36.000Z,,"[SPOX, betastrasse, Jürgen Klopp, Jose Mourinho, Fußball, Premier League, FC Liverpool, Manchester United, Streit]",Jürgen Klopp: Darum ging es im Streit mit Jose Mourinho | Manchester United - FC Liverpool 1:1,SOu0agmG74U,7130
+35,,,,69235,24930,87918981,,,,,,,,,,,,,,,,,,,
+36,17,UC3PdKlBZ6UgDF0HjXZVPhTg,90thMin,,,,12,,hd,Liverpool 1-1 Manchester United José Mourinho Post Match Interview 15/01/2017,4,PT3M4S,0,51,none,"{u'description': u'Liverpool 1-1 Manchester United José Mourinho Post Match Interview 15/01/2017', u'title': u'Liverpool 1-1 Manchester United José Mourinho Post Match Interview'}",public,rectangular,False,2017-01-15T18:31:21.000Z,,"[Liverpool 1-1 Manchester United José Mourinho Post Match Interview, all goals highlights]",Liverpool 1-1 Manchester United José Mourinho Post Match Interview,aOAdILT2xiw,13842
+37,,,,6909,436,4867597,,,,,,,,,,,,,,,,,,,
+38,17,UCWW3QH_lhOHxb6-97Uen96g,Everything MUFC,,,,32,en-GB,hd,"A last minute winner by Matty Willock to seal the victory for the U23s against rivals Liverpool.
+
+Twitter: https://mobile.twitter.com/everythingmufc3",1,PT56S,0,231,none,"{u'description': u'A last minute winner by Matty Willock to seal the victory for the U23s against rivals Liverpool.
+
+Twitter: https://mobile.twitter.com/everythingmufc3', u'title': u'LAST MIN WINNER!!! | Manchester United 1-0 Liverpool U23'}",public,rectangular,True,2017-01-16T22:18:10.000Z,,"[Jose Mourinho, Manchester United U23, MUFC, man united, man utd, Football, Soccer, EPL, BPL, Premier League 2, Nicky Butt, Liverpool U23, Matty Willock]",LAST MIN WINNER!!! | Manchester United 1-0 Liverpool U23,u9c93V1IZuU,4844
+39,,,,17566,4,39129,,,,,,,,,,,,,,,,,,,
+40,24,UCbj2ZY6R-MM8H2z03YRkO8A,JinnyboyTV Hangouts,,,,42,,hd,"This was super random. Reuben is a Liverpool fan, he decided to make a bet with Irwin and Justin who are huge Manchester United fans. find out if he wins, or loses
+
+FOLLOW US ON INSTAGRAM
+Jin Lim: http://www.instagram.com/jinnyboy
+Reuben Kang: http://www.instagram.com/reubenkang
+
+LIKE US ON FACEBOOK
+http://www.facebook.com/Jinnyboytv
+
+FOLLOW US ON SNAPCHAT
+Jinnyboy: TheRealJinnyboy
+Reuben Kang: ReubenKang
+
+FOLLOW US ON TWITTER
+Jin Lim: http://www.twitter.com/jinnyboy
+Reuben Kang: http://www.twitter.com/ReubenKang
+
+CHECK OUT OUR FIRST CHANNEL
+http://www.youtube.com/jinnyboytv
+
+WEBSITE
+http://www.jinnyboytv.com",45,PT5M9S,0,240,none,"{u'description': u'This was super random. Reuben is a Liverpool fan, he decided to make a bet with Irwin and Justin who are huge Manchester United fans. find out if he wins, or loses
+
+FOLLOW US ON INSTAGRAM
+Jin Lim: http://www.instagram.com/jinnyboy
+Reuben Kang: http://www.instagram.com/reubenkang
+
+LIKE US ON FACEBOOK
+http://www.facebook.com/Jinnyboytv
+
+FOLLOW US ON SNAPCHAT
+Jinnyboy: TheRealJinnyboy
+Reuben Kang: ReubenKang
+
+FOLLOW US ON TWITTER
+Jin Lim: http://www.twitter.com/jinnyboy
+Reuben Kang: http://www.twitter.com/ReubenKang
+
+CHECK OUT OUR FIRST CHANNEL
+http://www.youtube.com/jinnyboytv
+
+WEBSITE
+http://www.jinnyboytv.com', u'title': u'Manchester United VS Liverpool Fan - Blackjack Challenge!'}",public,rectangular,True,2017-01-15T13:56:59.000Z,,"[jinnyboy, jinnyboytv, jin lim, reuben kang, abuden, jinnyboytv hangouts, jinnyboytv challenge, my generasi, man u vs liverpool highlights, manchester vs liverpool, man united vs liverpool 15th jan, 15th jan highlights, football highlights]",Manchester United VS Liverpool Fan - Blackjack Challenge!,UXHJVv0jDC4,27542
+41,,,,35036,62,2811686,,,,,,,,,,,,,,,,,,,
+42,17,UC3sOqa1gSWwJFw0VghAe1nA,MU TV,,,,7,,sd,,13,PT10M3S,0,69,none,"{u'description': u'', u'title': u'manchester united vs Liverpool 1 :1 extended highlight'}",public,rectangular,True,2017-01-15T18:38:17.000Z,,"[jose mourino, jose mourinho press conference, press conference, manchester united vs Liverpool 1 :1, wayne rooney, Zlatan Ibrahimović, paul pogba, juan mata, anthony martial, cristiano ronaldo, messi, james rodriguez, antonio conte press conference, pep gaurdiola press conference, chelsea press conference, manchester city press conferene, arsenal press conference, Jose Mourinho post-match press conference, real Madrid, REAL MADRID, manchester united vs Liverpool]",manchester united vs Liverpool 1 :1 extended highlight,2KOHOEFIkIg,16987
+43,,,,1723,195,1021135,,,,,,,,,,,,,,,,,,,
+44,17,UCmfOWyP4sS2L4GQYLlLyMTQ,TomSportsHeaven,,,,42,en-GB,hd,"►Manchester United 1-1 Liverpool - Jose Mourinho Post Match Interview - Man United vs Liverpool
+►Manchester United 1-1 Liverpool Post Match Analysis: https://www.youtube.com/watch?v=ycniIRt059Y
+►Subscribe for more videos: http://www.youtube.com/user/fifacommunityforyou?sub_confirmation=1
+►Video credits to: https://www.youtube.com/channel/UCYXHZH-tPbiHHEqBFGrccGA
+►Biggest January Transfers 2017 - Premier League & China to spend crazy: https://www.youtube.com/watch?v=LGyiHU9QxZE
+►New PES 2017 Liverpool episode: https://www.youtube.com/watch?v=sPOA5-D1-ig
+►FIFA 17 CHANNEL: https://www.youtube.com/user/TomLFCHeaven 
+►Follow me: https://twitter.com/#!/TomLFCHeaven 
+►Add me on Facebook: http://www.facebook.com/TomLFCHeaven?sk=wall 
+►Instagram: http://instagram.com/tomlfcheaven
+►Playlists of all my video series: https://www.youtube.com/user/FifaCommunityForYou/playlists
+
+I upload Football Match Reviews & Analysis videos & gaming videos, Subscribe & enjoy the videos! :) 
+
+Send any Business Inquiries to: TomLFCHeaven@gmail.com
+
+Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for ""fair use"" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use..",18,PT3M18S,0,75,none,"{u'description': u'►Manchester United 1-1 Liverpool - Jose Mourinho Post Match Interview - Man United vs Liverpool
+►Manchester United 1-1 Liverpool Post Match Analysis: https://www.youtube.com/watch?v=ycniIRt059Y
+►Subscribe for more videos: http://www.youtube.com/user/fifacommunityforyou?sub_confirmation=1
+►Video credits to: https://www.youtube.com/channel/UCYXHZH-tPbiHHEqBFGrccGA
+►Biggest January Transfers 2017 - Premier League & China to spend crazy: https://www.youtube.com/watch?v=LGyiHU9QxZE
+►New PES 2017 Liverpool episode: https://www.youtube.com/watch?v=sPOA5-D1-ig
+►FIFA 17 CHANNEL: https://www.youtube.com/user/TomLFCHeaven 
+►Follow me: https://twitter.com/#!/TomLFCHeaven 
+►Add me on Facebook: http://www.facebook.com/TomLFCHeaven?sk=wall 
+►Instagram: http://instagram.com/tomlfcheaven
+►Playlists of all my video series: https://www.youtube.com/user/FifaCommunityForYou/playlists
+
+I upload Football Match Reviews & Analysis videos & gaming videos, Subscribe & enjoy the videos! :) 
+
+Send any Business Inquiries to: TomLFCHeaven@gmail.com
+
+Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for ""fair use"" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use..', u'title': u'Manchester United 1-1 Liverpool - Jose Mourinho Post Match Interview - Man United vs Liverpool'}",public,rectangular,False,2017-01-15T18:52:58.000Z,,"[2016-17, Premier League, BPL, EPL, Sky Sports, BBC, MOTD, Sky, liverpool, goals, manchester united, Liverpool Man United, Liverpool - Man United, Man United 1-1 Liverpool, LFC vs Man United, Klopp, Mourinho, Jurgen Klopp, Jose Mourinho, Liverpool-Man United, Manchester United 1-1 Liverpool, Klopp vs Mourinho, LFC, Old Trafford, MUTD, BT Sport, ESPN, Sky Sports Analysis, Manchester united 1-1 Liverpool, Ibrahimovic, Ibrahimovic Interview, Mourinho Interview, Mourinho Post Match Interview]",Manchester United 1-1 Liverpool - Jose Mourinho Post Match Interview - Man United vs Liverpool,V8HvHjPw9pw,20499
+45,,,,19694,288,2379473,,,,,,,,,,,,,,,,,,,
+46,17,UCncTl_C9FWQPgumLhpPYFfw,TheR3dDevils,,,,3,,hd,"Manchester United vs Liverpool - discussion preview | Football Today FULL show jan 2017
+
+video credit https://www.youtube.com/channel/UCYXHZH-tPbiHHEqBFGrccGA",0,PT21M28S,0,21,none,"{u'description': u'Manchester United vs Liverpool - discussion preview | Football Today FULL show jan 2017
+
+video credit https://www.youtube.com/channel/UCYXHZH-tPbiHHEqBFGrccGA', u'title': u'Manchester United vs Liverpool - discussion preview | Football Today FULL show'}",public,rectangular,True,2017-01-14T01:16:55.000Z,,[Manchester United vs Liverpool - discussion preview | Football Today FULL show],Manchester United vs Liverpool - discussion preview | Football Today FULL show,Affl0osSN-E,2054
+47,,,,7433,127,2186295,,,,,,,,,,,,,,,,,,,
+48,17,UCiVg6vRhuyjsWgHkDNOig6A,BeanymanSports,,,,278,en-GB,hd,"Post-match press conference with Liverpool manager Jurgen Klopp following his side's 1-1 draw with Manchester United in the Premier League.
+
+Please subscribe, like the video and share wherever you can!
+
+If you want to support my channel you can donate here = https://www.patreon.com/BeanymanSports
+
+I own the rights to this footage, DO NOT copy and re-upload this video otherwise copyright strikes and legal action will be taken.
+
+To make sure you don't miss any of my videos
+on this and my other channels please :
+
+Subscribe to this channel : http://bit.ly/BeanymanSportsSub
+Follow me on Twitter : http://www.twitter.com/BeanymanSports
+Check out my website : http://www.BeanymanSports.com
+Like me on Facebook : https://www.facebook.com/BeanymanSports
+Follow me on Google+ : https://plus.google.com/+BeanymanSports
+
+Check out my App! It's free to download
+
+AppStore = https://itunes.apple.com/gb/app/beanymansports/id1162555232?mt=8
+Google Play = https://play.google.com/store/apps/details?id=co.veam.veam31004550
+
+Thanks",86,PT10M28S,0,304,none,"{u'description': u'Post-match press conference with Liverpool manager Jurgen Klopp following his side's 1-1 draw with Manchester United in the Premier League.
+
+Please subscribe, like the video and share wherever you can!
+
+If you want to support my channel you can donate here = https://www.patreon.com/BeanymanSports
+
+I own the rights to this footage, DO NOT copy and re-upload this video otherwise copyright strikes and legal action will be taken.
+
+To make sure you don't miss any of my videos
+on this and my other channels please :
+
+Subscribe to this channel : http://bit.ly/BeanymanSportsSub
+Follow me on Twitter : http://www.twitter.com/BeanymanSports
+Check out my website : http://www.BeanymanSports.com
+Like me on Facebook : https://www.facebook.com/BeanymanSports
+Follow me on Google+ : https://plus.google.com/+BeanymanSports
+
+Check out my App! It's free to download
+
+AppStore = https://itunes.apple.com/gb/app/beanymansports/id1162555232?mt=8
+Google Play = https://play.google.com/store/apps/details?id=co.veam.veam31004550
+
+Thanks', u'title': u'Manchester United 1-1 Liverpool - Jurgen Klopp Full Post Match Press Conference'}",public,rectangular,True,2017-01-15T19:45:45.000Z,,"[Football, Soccer, Beanyman, BeanymanSports, liverpool, jurgen, klopp, manchester, premier, jose, mourinho, Jose Mourinho, manchester United, Liverpool, Premier League, Jurgen Klopp, Sports]",Manchester United 1-1 Liverpool - Jurgen Klopp Full Post Match Press Conference,5oiq9aiGHyI,47454
+49,,,,156693,2299,99212423,,,,,,,,,,,,,,,,,,,
+50,17,UC7w8GnTF2Sp3wldDMtCCtVw,FullTimeDEVILS,,,,126,en-GB,hd,"Transfer Daily is here!!! - Separating the facts from the b*llocks!
+Could Atletico sign Diego Costa to replace Antoine Griezmann? Are Real Madrid after David De Gea again? Have Lyon made a second bid for Memphis? Get your view in below!
+
+Subscribe, FREE, for more MUFC: http://bit.ly/DEVILSsub
+Subscribe to The Football Republic: http://bit.ly/1Nsw8Uq
+
+About FullTimeDEVILS:
+We are YouTube's largest football fan channel, made for Manchester United fans and bringing you big match previews, post-match reaction and reviews, tactical analysis, player debates and much more! If you're a red, we want you to get involved; whatever you want to say about United you can say it in the comments below. And to become one of our Devil pundits and be on the shows,here's how you can get in touch:
+Twitter: https://twitter.com/FullTimeDEVILS
+Facebook: https://www.facebook.com/FullTimeDEVILS
+G+: https://plus.google.com/+FullTimeDevils",6,PT17M52S,0,352,none,"{u'description': u'Transfer Daily is here!!! - Separating the facts from the b*llocks!
+Could Atletico sign Diego Costa to replace Antoine Griezmann? Are Real Madrid after David De Gea again? Have Lyon made a second bid for Memphis? Get your view in below!
+
+Subscribe, FREE, for more MUFC: http://bit.ly/DEVILSsub
+Subscribe to The Football Republic: http://bit.ly/1Nsw8Uq
+
+About FullTimeDEVILS:
+We are YouTube's largest football fan channel, made for Manchester United fans and bringing you big match previews, post-match reaction and reviews, tactical analysis, player debates and much more! If you're a red, we want you to get involved; whatever you want to say about United you can say it in the comments below. And to become one of our Devil pundits and be on the shows,here's how you can get in touch:
+Twitter: https://twitter.com/FullTimeDEVILS
+Facebook: https://www.facebook.com/FullTimeDEVILS
+G+: https://plus.google.com/+FullTimeDevils', u'title': u'Costa to Replace Griezmann? De Gea, Another Memphis Bid? | Manchester United Transfer News | TD #12'}",public,rectangular,True,2017-01-17T09:23:08.000Z,,"[Manchester United, Manchester, Man Utd, Football, Soccer, fulltimedevils, Andy Tate, Full Time Devils, Manchester United News, Transfer News, United, Man United, Mourinho, MUFC, Manchester United transfer news, Man United transfer news, Diego Costa, Costa, Costa transfer, Griezmann, Antoine Griezmann, Griezmann transfer, Griezmann Man United, David De Gea, De Gea, De Gea Real Madrid, Memphis, Lyon, Memphis transfer]","Costa to Replace Griezmann? De Gea, Another Memphis Bid? | Manchester United Transfer News | TD #12",oRVdvV_wPWQ,3937
+51,,,,325143,3883,121613952,,,,,,,,,,,,,,,,,,,
+52,17,UC7w8GnTF2Sp3wldDMtCCtVw,FullTimeDEVILS,,,,661,,hd,"Andy Tate spoke to us after Manchester United 1-1 Liverpool and thinks despite today's set back we're going places, have your say, comment below! 
+
+Subscribe, FREE, for more MUFC: http://bit.ly/DEVILSsub
+Subscribe to The Football Republic: http://bit.ly/1Nsw8Uq
+
+Andy Tate: We're Going Places! | Manchester United 1-1 Liverpool | FANCAM
+
+About FullTimeDEVILS:
+We are YouTube's largest football fan channel, made for Manchester United fans and bringing you big match previews, post-match reaction and reviews, tactical analysis, player debates and much more! If you're a red, we want you to get involved; whatever you want to say about United you can say it in the comments below. And to become one of our Devil pundits and be on the shows,here's how you can get in touch:
+Twitter: https://twitter.com/FullTimeDEVILS
+Facebook: https://www.facebook.com/FullTimeDEVILS
+G+: https://plus.google.com/+FullTimeDevils",66,PT3M12S,0,1099,none,"{u'description': u'Andy Tate spoke to us after Manchester United 1-1 Liverpool and thinks despite today's set back we're going places, have your say, comment below! 
+
+Subscribe, FREE, for more MUFC: http://bit.ly/DEVILSsub
+Subscribe to The Football Republic: http://bit.ly/1Nsw8Uq
+
+Andy Tate: We're Going Places! | Manchester United 1-1 Liverpool | FANCAM
+
+About FullTimeDEVILS:
+We are YouTube's largest football fan channel, made for Manchester United fans and bringing you big match previews, post-match reaction and reviews, tactical analysis, player debates and much more! If you're a red, we want you to get involved; whatever you want to say about United you can say it in the comments below. And to become one of our Devil pundits and be on the shows,here's how you can get in touch:
+Twitter: https://twitter.com/FullTimeDEVILS
+Facebook: https://www.facebook.com/FullTimeDEVILS
+G+: https://plus.google.com/+FullTimeDevils', u'title': u'Andy Tate: We're Going Places! | Manchester United 1-1 Liverpool | FANCAM'}",public,rectangular,True,2017-01-15T20:55:29.000Z,,"[Manchester United, Manchester, Man Utd, Football, Soccer, fulltimedevils, Andy Tate, Full Time Devils, Transfer News, United, Man United, Mourinho, MUFC, Man United transfer news, Liverpool, Liverpool FC, Scousers, Manchester United 1-1 Liverpool, Man United 1-1 Liverpool, United 1-1 Liverpool, 1-1, Premier League, Old Trafford, Jurgen Klopp, Klopp, Jose Mourinho, Zlatan Ibrahimovic goal, Zlatan goal, Matip, Coutinho, goals, goal, highlights, live stream, live, stream, vs]",Andy Tate: We're Going Places! | Manchester United 1-1 Liverpool | FANCAM,2dzibCgLM3I,38895
+53,,,,325143,3883,121613952,,,,,,,,,,,,,,,,,,,
+54,17,UCWW3QH_lhOHxb6-97Uen96g,Everything MUFC,,,,84,en-GB,hd,"Jose Mourinho addresses the media after the disappointing 1-1 draw against rivals Liverpool.
+
+Twitter: https://mobile.twitter.com/everythingmufc3",7,PT6M47S,0,208,none,"{u'description': u'Jose Mourinho addresses the media after the disappointing 1-1 draw against rivals Liverpool.
+
+Twitter: https://mobile.twitter.com/everythingmufc3', u'title': u'Jose Mourinho's Post-Match Press Conference - Manchester United 1-1 Liverpool'}",public,rectangular,True,2017-01-15T20:05:04.000Z,,"[Jose Mourinho, Manchester United, MUFC, man united, man utd, Football, Soccer, EPL, BPL, Premier League, Jurgen Klopp, Liverpool, Zlatan Ibrahimovic, Paul Pogba, Henrikh Mkhitaryan, Anthony Martial, Michael Carrick, Marouanne Fellaini, Wayne Rooney, Juan Mata, Marcus Rashford, Antonio Valencia, Phil Jones, James Milner, Matteo Darmian]",Jose Mourinho's Post-Match Press Conference - Manchester United 1-1 Liverpool,JcrHJrXOnxs,27164
+55,,,,17566,4,39129,,,,,,,,,,,,,,,,,,,
+56,17,UCLjIA86G23UwBgDE3OPfXZg,Tatul Axababyan,,,,43,,sd,"Manchester United vs Hull City 10.01.2017 goal Fellaini, Mata",25,PT5M5S,0,510,none,"{u'description': u'Manchester United vs Hull City 10.01.2017 goal Fellaini, Mata', u'title': u'Manchester United vs Hull City 2---0 EFL CUP Highlights 10.01.2017'}",public,rectangular,True,2017-01-11T09:34:57.000Z,,"[Manchester United vs Hull City, Manchester United, Fellaini, Henrikh Mkhitaryan, ՀԵՆՐԻԿ ՄԽԻԹԱՐՅԱՆ]",Manchester United vs Hull City 2---0 EFL CUP Highlights 10.01.2017,2hEPJY_bBOo,231962
+57,,,,0,111,1456154,,,,,,,,,,,,,,,,,,,
+58,17,UC1MYBtQ0Z6QY1Ue_Do6zPkg,Best Compilations,,,,15,zxx,hd,"VIDEO Pogba stupided: Handball, miss in Manchester United vs Liverpool  1 - 1
+subscribe G+ https://goo.gl/HgMI6N
+subscribe youtube https://goo.gl/xYemVv
+----------------------------------------------
+Thanks for watching!",4,PT1M17S,0,16,none,"{u'description': u'VIDEO Pogba stupided: Handball, miss in Manchester United vs Liverpool  1 - 1
+subscribe G+ https://goo.gl/HgMI6N
+subscribe youtube https://goo.gl/xYemVv
+----------------------------------------------
+Thanks for watching!', u'title': u'Pogba stupided: Handball, miss goal in Manchester United vs Liverpool  1 - 1'}",public,rectangular,True,2017-01-15T17:13:51.000Z,,"[Pogba stupided, Pogba stupided: Handball, miss goal, miss goal in Manchester United vs Liverpool 0 - 1]","Pogba stupided: Handball, miss goal in Manchester United vs Liverpool  1 - 1",Ng-yx45Bykc,4793
+59,,,,0,33,599822,,,,,,,,,,,,,,,,,,,
+60,23,UCMGFF56ot2kdABnBxCZbTwg,Club&Seal,,,,95,en,hd,"Benzema is a legend. Pogba... still undetermined. 
+CHOOSE Giroud or Mkhitaryan? ► https://www.youtube.com/watch?v=A_CV8ScwS7A
+Don't Miss The Next Video! Subscribe! ►► http://bit.ly/R1OEvsl
+Check out our Pages! ▼
+► Facebook Page - http://on.fb.me/1Qg1YIP
+Twitter (Club) ► https://twitter.com/ClubsTwatter
+Twitter (Seal) ►https://twitter.com/SealsTwitchter
+►Funny Football/Soccer Moments playlist: http://tinyurl.com/hu95v34
+
+
+For business inquiries: clubandseal(at)gmail.com
+
+In this episode of sports vines, specifically soccer/football vines & Instagram videos, we examine the state of Pogba who is falling short of expectations. Paul has amazing skills but with only 4 goals to show for this season, his performance in this intense 1-1 tie vs Liverpool left Manchester United fans with a bitter taste and even further behind the league's leaders, Chelsea. We discuss the Ibrahimovic goal that occurred on January 15th that was potentially offside and take a look at one of Karim Benzema greatest goals. Arsenal fans are still left wondering what they did to be so low in the standings considering their pool of talent and their triumphant win vs Swansea City. Of course, there were tons of fails and bloopers to cover as well, later in the episode.
+
+Will Jose Murinho transfer Pogba or will Paul learn to cope with the pressure? Zlatan believes in his teammate, but do you?
+
+detailed video stats:
+Manchester United vs Liverpool 1:1 All Goals Highlights Extended -- Manchester United Liverpool Jan, 15/2017
+
+Goals: James Milner (penalty) 27, Zlatan Ibrahimovic 84
+Paul Pogba 6' Yellow Card for Choking Henderson
+Paul Pogba has a salary of: 15 million pounds dollars
+
+Video Manchester United vs Liverpool 1-1 All Goals and Highlights , Goles Gol 14-01-2017
+
+Manchester United vs Liverpool 1-1
+Manchester united vs Liverpool
+
+Manchester United vs Liverpool 1-1 Goles y Resumen
+Manchester United 1 x 1 Liverpool Gols E melhores Momentos
+
+Zlatan Ibrahimovic Goal
+James Milner Goal
+
+Liverpool vs manchester united
+Man United vs Liverpool 1-1
+Mu vs Liverpool 1-1
+Man Utd vs liverpool 1-1
+
+Cuplikan Gol Manchester United vs Liverpool 1-1 Pertandingan Liga Inggris Terbaru tadi malam
+
+Football vines 
+soccer vines
+soccer instagram videos
+football instagram videos
+Thank you to these compilation creators:
+Simmot
+Igabrs
+
+football vines football vines 2016 football vines with song names football vines celebrations Funny Football Vines, Soccer Football Vines, soccer vines, soccer vines with beat drops soccer vines 2016, soccer vines with song names, soccer vines funny, soccer vines 2016 with beat drops football songs, football skills football, soccer skills soccer goals soccer skills 2016 Funny Football soccer Funny Football vines Football Fails Comedy Football Throw-in Football",20,PT10M7S,0,719,none,"{u'description': u'Benzema is a legend. Pogba... still undetermined. 
+CHOOSE Giroud or Mkhitaryan? ► https://www.youtube.com/watch?v=A_CV8ScwS7A
+Don't Miss The Next Video! Subscribe! ►► http://bit.ly/R1OEvsl
+Check out our Pages! ▼
+► Facebook Page - http://on.fb.me/1Qg1YIP
+Twitter (Club) ► https://twitter.com/ClubsTwatter
+Twitter (Seal) ►https://twitter.com/SealsTwitchter
+►Funny Football/Soccer Moments playlist: http://tinyurl.com/hu95v34
+
+
+For business inquiries: clubandseal(at)gmail.com
+
+In this episode of sports vines, specifically soccer/football vines & Instagram videos, we examine the state of Pogba who is falling short of expectations. Paul has amazing skills but with only 4 goals to show for this season, his performance in this intense 1-1 tie vs Liverpool left Manchester United fans with a bitter taste and even further behind the league's leaders, Chelsea. We discuss the Ibrahimovic goal that occurred on January 15th that was potentially offside and take a look at one of Karim Benzema greatest goals. Arsenal fans are still left wondering what they did to be so low in the standings considering their pool of talent and their triumphant win vs Swansea City. Of course, there were tons of fails and bloopers to cover as well, later in the episode.
+
+Will Jose Murinho transfer Pogba or will Paul learn to cope with the pressure? Zlatan believes in his teammate, but do you?
+
+detailed video stats:
+Manchester United vs Liverpool 1:1 All Goals Highlights Extended -- Manchester United Liverpool Jan, 15/2017
+
+Goals: James Milner (penalty) 27, Zlatan Ibrahimovic 84
+Paul Pogba 6' Yellow Card for Choking Henderson
+Paul Pogba has a salary of: 15 million pounds dollars
+
+Video Manchester United vs Liverpool 1-1 All Goals and Highlights , Goles Gol 14-01-2017
+
+Manchester United vs Liverpool 1-1
+Manchester united vs Liverpool
+
+Manchester United vs Liverpool 1-1 Goles y Resumen
+Manchester United 1 x 1 Liverpool Gols E melhores Momentos
+
+Zlatan Ibrahimovic Goal
+James Milner Goal
+
+Liverpool vs manchester united
+Man United vs Liverpool 1-1
+Mu vs Liverpool 1-1
+Man Utd vs liverpool 1-1
+
+Cuplikan Gol Manchester United vs Liverpool 1-1 Pertandingan Liga Inggris Terbaru tadi malam
+
+Football vines 
+soccer vines
+soccer instagram videos
+football instagram videos
+Thank you to these compilation creators:
+Simmot
+Igabrs
+
+football vines football vines 2016 football vines with song names football vines celebrations Funny Football Vines, Soccer Football Vines, soccer vines, soccer vines with beat drops soccer vines 2016, soccer vines with song names, soccer vines funny, soccer vines 2016 with beat drops football songs, football skills football, soccer skills soccer goals soccer skills 2016 Funny Football soccer Funny Football vines Football Fails Comedy Football Throw-in Football', u'title': u'Pogba has NO SKILL! Ibrahimovic Saves Manchester United ● SOCCER VINES ULTIMATE COMPILATION'}",public,rectangular,False,2017-01-16T23:34:57.000Z,,"[club, seal, review, commentary, reaction, funny, match of the day, pogba handball, man united vs, manchester vs liverpool, benzema goal, karim benzema skills, real madrid vs, soccer vines, vine compilation, sports vines, clips, zlatan, highlights, real madrid vs sevilla, football vines, Zlatan, Paul, Pogba, Amazing, Duo, United, 2017, Skills, Goals, Best, Zlatan ibrahimovic, Goal, Arsenal, milner penalty, pogba skills, pogba amazing goal, pogba top 10 goals, amazing skills, Manchester United, w2s]",Pogba has NO SKILL! Ibrahimovic Saves Manchester United ● SOCCER VINES ULTIMATE COMPILATION,WY2ovVvDRRQ,9783
+61,,,,104067,380,25615192,,,,,,,,,,,,,,,,,,,
+62,17,UC7w8GnTF2Sp3wldDMtCCtVw,FullTimeDEVILS,,,,782,,hd,"Adam McKola gives us his thoughts on Manchester United 1-1 Liverpool at Old Trafford. Was that Paul Pogba's worst game for us? Comment below!
+
+Subscribe, FREE, for more MUFC: http://bit.ly/DEVILSsub
+Subscribe to The Football Republic: http://bit.ly/1Nsw8Uq
+
+Paul Pogba's Worst Game! | Manchester United 1-1 Liverpool | REVIEW
+
+About FullTimeDEVILS:
+We are YouTube's largest football fan channel, made for Manchester United fans and bringing you big match previews, post-match reaction and reviews, tactical analysis, player debates and much more! If you're a red, we want you to get involved; whatever you want to say about United you can say it in the comments below. And to become one of our Devil pundits and be on the shows,here's how you can get in touch:
+Twitter: https://twitter.com/FullTimeDEVILS
+Facebook: https://www.facebook.com/FullTimeDEVILS
+G+: https://plus.google.com/+FullTimeDevils",88,PT4M6S,0,907,none,"{u'description': u'Adam McKola gives us his thoughts on Manchester United 1-1 Liverpool at Old Trafford. Was that Paul Pogba's worst game for us? Comment below!
+
+Subscribe, FREE, for more MUFC: http://bit.ly/DEVILSsub
+Subscribe to The Football Republic: http://bit.ly/1Nsw8Uq
+
+Paul Pogba's Worst Game! | Manchester United 1-1 Liverpool | REVIEW
+
+About FullTimeDEVILS:
+We are YouTube's largest football fan channel, made for Manchester United fans and bringing you big match previews, post-match reaction and reviews, tactical analysis, player debates and much more! If you're a red, we want you to get involved; whatever you want to say about United you can say it in the comments below. And to become one of our Devil pundits and be on the shows,here's how you can get in touch:
+Twitter: https://twitter.com/FullTimeDEVILS
+Facebook: https://www.facebook.com/FullTimeDEVILS
+G+: https://plus.google.com/+FullTimeDevils', u'title': u'Paul Pogba's Worst Game! | Manchester United 1-1 Liverpool | REVIEW'}",public,rectangular,True,2017-01-15T20:40:45.000Z,,"[Manchester United, Manchester, Man Utd, Football, Soccer, fulltimedevils, Andy Tate, Full Time Devils, Manchester United News, United, Man United, Mourinho, MUFC, Man United transfer news, Liverpool, Liverpool FC, Scousers, Manchester United 1-1 Liverpool, Man United 1-1 Liverpool, United 1-1 Liverpool, 1-1, Premier League, Old Trafford, Jurgen Klopp, Klopp, Jose Mourinho, Zlatan Ibrahimovic goal, Zlatan goal, Matip, Coutinho, goals, goal, highlights, live stream, live, stream, vs]",Paul Pogba's Worst Game! | Manchester United 1-1 Liverpool | REVIEW,rM7SmmT5pGQ,34372
+63,,,,325143,3883,121613952,,,,,,,,,,,,,,,,,,,
+64,17,UCDJ1Zb5PCGqJFeoAcxAoV7g,JustFootball,,,,68,en-GB,hd,"Video made by JustFootball.
+Subscribe to my channel for more videos
+https://www.youtube.com/c/JustFootballChannel?sub_confirmation=1
+
+Manchester City 2-3 Manchester United [ 2012 / 2013 ]
+
+Robin van Persie's deflected injury-time free-kick gave Manchester United a dramatic 3-2 derby win over Manchester City.
+
+MC: Y Toure (60), P Zabaleta (86)
+MU: W Rooney (16, 29), R van Persie (90+2)",54,PT12M57S,0,692,none,"{u'description': u'Video made by JustFootball.
+Subscribe to my channel for more videos
+https://www.youtube.com/c/JustFootballChannel?sub_confirmation=1
+
+Manchester City 2-3 Manchester United [ 2012 / 2013 ]
+
+Robin van Persie's deflected injury-time free-kick gave Manchester United a dramatic 3-2 derby win over Manchester City.
+
+MC: Y Toure (60), P Zabaleta (86)
+MU: W Rooney (16, 29), R van Persie (90+2)', u'title': u'Manchester City 2-3 Manchester United [ 2012 / 2013 ]'}",public,rectangular,True,2017-01-13T16:00:06.000Z,,"[JustFootball, Manchester City 2-3 Manchester United, man city 2-3 man utd, manchester city, manchester united, man city, man united, city vs united, man utd, city vs united 2-3, motd, manchester vs city, manchester united vs, manchester, manchester city vs, manchester united city, man city man united 2012]",Manchester City 2-3 Manchester United [ 2012 / 2013 ],zX-gEzP0u1s,156752
+65,,,,6611,135,2351681,,,,,,,,,,,,,,,,,,,
+66,22,UCR2cqs4UUcbsL_WEi4V94fA,Aveshramsarup,,,,2,,sd,#manchesterunited #rio #goal #fan #player #ferdinand #football #liverpool #mufc,1,PT13S,0,31,none,"{u'description': u'#manchesterunited #rio #goal #fan #player #ferdinand #football #liverpool #mufc', u'title': u'Rio Ferdinand Reaction to Manchester United Goal'}",public,rectangular,True,2017-01-15T18:12:58.000Z,,,Rio Ferdinand Reaction to Manchester United Goal,0GIKFZBeHwM,20559
+67,,,,1,32,12210,,,,,,,,,,,,,,,,,,,
+68,17,UC7w8GnTF2Sp3wldDMtCCtVw,FullTimeDEVILS,,,,715,,hd,"Gaz gives us his thoughts on Manchester United 1-1 Liverpool and that this Liverpool team is mid-table level. Have your say, comment below! 
+
+Subscribe, FREE, for more MUFC: http://bit.ly/DEVILSsub
+Subscribe to The Football Republic: http://bit.ly/1Nsw8Uq
+
+About FullTimeDEVILS:
+We are YouTube's largest football fan channel, made for Manchester United fans and bringing you big match previews, post-match reaction and reviews, tactical analysis, player debates and much more! If you're a red, we want you to get involved; whatever you want to say about United you can say it in the comments below. And to become one of our Devil pundits and be on the shows,here's how you can get in touch:
+Twitter: https://twitter.com/FullTimeDEVILS
+Facebook: https://www.facebook.com/FullTimeDEVILS
+G+: https://plus.google.com/+FullTimeDevils",224,PT4M18S,0,865,none,"{u'description': u'Gaz gives us his thoughts on Manchester United 1-1 Liverpool and that this Liverpool team is mid-table level. Have your say, comment below! 
+
+Subscribe, FREE, for more MUFC: http://bit.ly/DEVILSsub
+Subscribe to The Football Republic: http://bit.ly/1Nsw8Uq
+
+About FullTimeDEVILS:
+We are YouTube's largest football fan channel, made for Manchester United fans and bringing you big match previews, post-match reaction and reviews, tactical analysis, player debates and much more! If you're a red, we want you to get involved; whatever you want to say about United you can say it in the comments below. And to become one of our Devil pundits and be on the shows,here's how you can get in touch:
+Twitter: https://twitter.com/FullTimeDEVILS
+Facebook: https://www.facebook.com/FullTimeDEVILS
+G+: https://plus.google.com/+FullTimeDevils', u'title': u'Mid Table Team! | Manchester United 1-1 Liverpool | FANCAM'}",public,rectangular,True,2017-01-15T21:12:47.000Z,,"[Manchester United, Manchester, Man Utd, Football, Soccer, fulltimedevils, Andy Tate, Full Time Devils, Manchester United News, Transfer News, United, Man United, Mourinho, Man United transfer news, Liverpool, Liverpool FC, Scousers, Manchester United 1-1 Liverpool, Man United 1-1 Liverpool, United 1-1 Liverpool, 1-1, Premier League, Old Trafford, Jurgen Klopp, Klopp, Jose Mourinho, Zlatan Ibrahimovic goal, Zlatan goal, Matip, Coutinho, goals, goal, highlights, live stream, live, stream, vs]",Mid Table Team! | Manchester United 1-1 Liverpool | FANCAM,Y5uZDY5f3qA,41575
+69,,,,325143,3883,121613952,,,,,,,,,,,,,,,,,,,
+70,17,UC7w8GnTF2Sp3wldDMtCCtVw,FullTimeDEVILS,,,,709,,hd,"Howson spoke to us after Manchester United 1-1 Liverpool watch out for the guy falling over AND a cameo from Sir Bobby Charlton! 
+
+Subscribe, FREE, for more MUFC: http://bit.ly/DEVILSsub
+Subscribe to The Football Republic: http://bit.ly/1Nsw8Uq
+
+About FullTimeDEVILS:
+We are YouTube's largest football fan channel, made for Manchester United fans and bringing you big match previews, post-match reaction and reviews, tactical analysis, player debates and much more! If you're a red, we want you to get involved; whatever you want to say about United you can say it in the comments below. And to become one of our Devil pundits and be on the shows,here's how you can get in touch:
+Twitter: https://twitter.com/FullTimeDEVILS
+Facebook: https://www.facebook.com/FullTimeDEVILS
+G+: https://plus.google.com/+FullTimeDevils",98,PT7M52S,0,1067,none,"{u'description': u'Howson spoke to us after Manchester United 1-1 Liverpool watch out for the guy falling over AND a cameo from Sir Bobby Charlton! 
+
+Subscribe, FREE, for more MUFC: http://bit.ly/DEVILSsub
+Subscribe to The Football Republic: http://bit.ly/1Nsw8Uq
+
+About FullTimeDEVILS:
+We are YouTube's largest football fan channel, made for Manchester United fans and bringing you big match previews, post-match reaction and reviews, tactical analysis, player debates and much more! If you're a red, we want you to get involved; whatever you want to say about United you can say it in the comments below. And to become one of our Devil pundits and be on the shows,here's how you can get in touch:
+Twitter: https://twitter.com/FullTimeDEVILS
+Facebook: https://www.facebook.com/FullTimeDEVILS
+G+: https://plus.google.com/+FullTimeDevils', u'title': u'Howson: Chase 'Em Down! | Manchester United 1-1 Liverpool | FANCAM'}",public,rectangular,True,2017-01-15T21:53:28.000Z,,"[Manchester United, Manchester, Man Utd, Football, fulltimedevils, Andy Tate, Full Time Devils, Manchester United News, Transfer News, United, Man United, Mourinho, MUFC, Liverpool, Liverpool FC, Scousers, Manchester United 1-1 Liverpool, Man United 1-1 Liverpool, United 1-1 Liverpool, 1-1, Premier League, Old Trafford, Jurgen Klopp, Klopp, Jose Mourinho, Zlatan Ibrahimovic goal, Zlatan goal, Matip, Coutinho, goals, goal, highlights, live stream, live, stream, vs]",Howson: Chase 'Em Down! | Manchester United 1-1 Liverpool | FANCAM,4lM9fqcB6X0,50879
+71,,,,325143,3883,121613952,,,,,,,,,,,,,,,,,,,
+72,22,UCCoJQBuB1MFqIGrkpZywblw,CANAL GOL,,,,12,,sd,"GOLS MANCHESTER UNITED 1 X 1 LIVERPOOL (CAMPEONATO INGLES ) 15/01/2017 GOLS MANCHESTER UNITED 1 X 1 LIVERPOOL (CAMPEONATO INGLES ) 15/01/2017 GOLS MANCHESTER UNITED 1 X 1 LIVERPOOL (CAMPEONATO INGLES ) 15/01/2017 GOLS MANCHESTER UNITED 1 X 1 LIVERPOOL (CAMPEONATO INGLES ) 15/01/2017
+
+
+
+GOALS MANCHESTER UNITED 1 X 1 LIVERPOOL ,GOLS MANCHESTER UNITED 1 X  1 LIVERPOOL,GOLOS MANCHESTER UNITED 1 X 1 LIVERPOOL,MANCHESTER UNITED GOALS,LIVERPOOL GOALS,15/01/2017,MANCHESTER UNITED - LIVERPOOL,PREMIER LEAGUE GOALS,LIGA INGLESA ,MANCHESTER UNITED X LIVERPOOL,PREMIER,PREMIER LEAGUE,MANCHESTER VS LIVERPOOL,GOLS MANCHESTER UNITED 1 X  1 LIVERPOOL,GOLOS MANCHESTER UNITED 1 X 1 LIVERPOOL,MANCHESTER UNITED GOALS,LIVERPOOL GOALS,15/01/2017,MANCHESTER UNITED - LIVERPOOL,PREMIER LEAGUE GOALS,LIGA INGLESA ,MANCHESTER UNITED X LIVERPOOL,PREMIER,PREMIER LEAGUE,MANCHESTER VS LIVERPOOL,GOLES MANCHESTER UNITED 1 X 1 LIVERPOOL,GOLS MANCHESTER UNITED,GOLS LIVERPOOL,",4,PT6M42S,0,161,none,"{u'description': u'GOLS MANCHESTER UNITED 1 X 1 LIVERPOOL (CAMPEONATO INGLES ) 15/01/2017 GOLS MANCHESTER UNITED 1 X 1 LIVERPOOL (CAMPEONATO INGLES ) 15/01/2017 GOLS MANCHESTER UNITED 1 X 1 LIVERPOOL (CAMPEONATO INGLES ) 15/01/2017 GOLS MANCHESTER UNITED 1 X 1 LIVERPOOL (CAMPEONATO INGLES ) 15/01/2017
+
+
+
+GOALS MANCHESTER UNITED 1 X 1 LIVERPOOL ,GOLS MANCHESTER UNITED 1 X  1 LIVERPOOL,GOLOS MANCHESTER UNITED 1 X 1 LIVERPOOL,MANCHESTER UNITED GOALS,LIVERPOOL GOALS,15/01/2017,MANCHESTER UNITED - LIVERPOOL,PREMIER LEAGUE GOALS,LIGA INGLESA ,MANCHESTER UNITED X LIVERPOOL,PREMIER,PREMIER LEAGUE,MANCHESTER VS LIVERPOOL,GOLS MANCHESTER UNITED 1 X  1 LIVERPOOL,GOLOS MANCHESTER UNITED 1 X 1 LIVERPOOL,MANCHESTER UNITED GOALS,LIVERPOOL GOALS,15/01/2017,MANCHESTER UNITED - LIVERPOOL,PREMIER LEAGUE GOALS,LIGA INGLESA ,MANCHESTER UNITED X LIVERPOOL,PREMIER,PREMIER LEAGUE,MANCHESTER VS LIVERPOOL,GOLES MANCHESTER UNITED 1 X 1 LIVERPOOL,GOLS MANCHESTER UNITED,GOLS LIVERPOOL,', u'title': u'GOLS MANCHESTER UNITED 1 X 1 LIVERPOOL (CAMPEONATO INGLES ) 15/01/2017'}",public,rectangular,True,2017-01-15T18:07:18.000Z,,"[GOLS MANCHESTER UNITED 1 X 1 LIVERPOOL, GOLOS MANCHESTER UNITED 1 X 1 LIVERPOOL, MANCHESTER UNITED GOALS, LIVERPOOL GOALS, 15/01/2017, MANCHESTER UNITED - LIVERPOOL, PREMIER LEAGUE GOALS, LIGA INGLESA, MANCHESTER UNITED X LIVERPOOL, PREMIER, PREMIER LEAGUE, MANCHESTER VS LIVERPOOL, GOLES MANCHESTER UNITED 1 X 1 LIVERPOOL, GOLS MANCHESTER UNITED, GOLS LIVERPOOL]",GOLS MANCHESTER UNITED 1 X 1 LIVERPOOL (CAMPEONATO INGLES ) 15/01/2017,zg4jWFTxeW4,29372
+73,,,,0,102,913094,,,,,,,,,,,,,,,,,,,
+74,17,UCmfOWyP4sS2L4GQYLlLyMTQ,TomSportsHeaven,,,,59,en-GB,hd,"►Manchester United 1-1 Liverpool - Zlatan Ibrahimovic Post Match Interview - ""We are there in the Race""
+►Manchester United 1-1 Liverpool Analysis: https://www.youtube.com/watch?v=SEiKx9mFieU
+►Subscribe for more videos: http://www.youtube.com/user/fifacommunityforyou?sub_confirmation=1
+►Video credits to: https://www.youtube.com/channel/UCYXHZH-tPbiHHEqBFGrccGA
+►Biggest January Transfers 2017 - Premier League & China to spend crazy: https://www.youtube.com/watch?v=LGyiHU9QxZE
+►New PES 2017 Liverpool episode: https://www.youtube.com/watch?v=sPOA5-D1-ig
+►FIFA 17 CHANNEL: https://www.youtube.com/user/TomLFCHeaven 
+►Follow me: https://twitter.com/#!/TomLFCHeaven 
+►Add me on Facebook: http://www.facebook.com/TomLFCHeaven?sk=wall 
+►Instagram: http://instagram.com/tomlfcheaven
+►Playlists of all my video series: https://www.youtube.com/user/FifaCommunityForYou/playlists
+
+I upload Football Match Reviews & Analysis videos & gaming videos, Subscribe & enjoy the videos! :) 
+
+Send any Business Inquiries to: TomLFCHeaven@gmail.com
+
+Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for ""fair use"" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use..",29,PT1M50S,0,172,none,"{u'description': u'►Manchester United 1-1 Liverpool - Zlatan Ibrahimovic Post Match Interview - ""We are there in the Race""
+►Manchester United 1-1 Liverpool Analysis: https://www.youtube.com/watch?v=SEiKx9mFieU
+►Subscribe for more videos: http://www.youtube.com/user/fifacommunityforyou?sub_confirmation=1
+►Video credits to: https://www.youtube.com/channel/UCYXHZH-tPbiHHEqBFGrccGA
+►Biggest January Transfers 2017 - Premier League & China to spend crazy: https://www.youtube.com/watch?v=LGyiHU9QxZE
+►New PES 2017 Liverpool episode: https://www.youtube.com/watch?v=sPOA5-D1-ig
+►FIFA 17 CHANNEL: https://www.youtube.com/user/TomLFCHeaven 
+►Follow me: https://twitter.com/#!/TomLFCHeaven 
+►Add me on Facebook: http://www.facebook.com/TomLFCHeaven?sk=wall 
+►Instagram: http://instagram.com/tomlfcheaven
+►Playlists of all my video series: https://www.youtube.com/user/FifaCommunityForYou/playlists
+
+I upload Football Match Reviews & Analysis videos & gaming videos, Subscribe & enjoy the videos! :) 
+
+Send any Business Inquiries to: TomLFCHeaven@gmail.com
+
+Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for ""fair use"" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use..', u'title': u'Manchester United 1-1 Liverpool - Zlatan Ibrahimovic Post Match Interview: ""We are in the Race""'}",public,rectangular,False,2017-01-15T18:22:38.000Z,,"[2016-17, Premier League, BPL, EPL, Sky Sports, BBC, MOTD, Sky, liverpool, goals, manchester united, Liverpool Man United, Liverpool - Man United, Man United 1-1 Liverpool, LFC vs Man United, Klopp, Mourinho, Jurgen Klopp, Jose Mourinho, Liverpool-Man United, Manchester United 1-1 Liverpool, Klopp vs Mourinho, LFC, Old Trafford, MUTD, MUTV, MUFC, BT Sport, ESPN, ESPN FC, Sky Sports Analysis, Milner, Milner penalty, Manchester united 1-1 Liverpool, Ibrahimovic, Ibrahimovic Interview]","Manchester United 1-1 Liverpool - Zlatan Ibrahimovic Post Match Interview: ""We are in the Race""",sW9jtdLotNA,41790
+75,,,,19694,288,2379473,,,,,,,,,,,,,,,,,,,
+76,17,UC9nq8hTJDF7rZh_-5ZDsfFg,colosimo99,,,,229,,hd,"Shoutout to CleanArts for some of the clips: https://www.youtube.com/cleanarts
+
+C99 is now partnered with around-j.com/ Visit Around-J for all the latest Juventus news and stories, or contact them if you are interested in visiting Torino and watching a Juventus game!
+
+2nd Channel: 
+https://www.youtube.com/channel/UCaOJEiCFgMM_HWWnnzjDmNA
+C99Tracks Channel: https://www.youtube.com/channel/UCRrQMOOEV_R_KXi5YcLTj-A
+
+Facebook Page: https://www.facebook.com/colo99/
+Twitter: https://twitter.com/dancolosimoo
+Instagram: https://www.instagram.com/dancolosimoo/
+www.colosimo99.com
+
+I DO NOT OWN THE RIGHTS TO THE CLIPS OR MUSIC. ALL RIGHTS BELONG TO THEIR RESPECTFUL OWNERS. This video is not intended to violate any Condition of Use. Copyright Disclaimer Under Section 107 of Copyright Act 1976, allowance is made for ""fair use"" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",59,PT3M41S,0,3833,none,"{u'description': u'Shoutout to CleanArts for some of the clips: https://www.youtube.com/cleanarts
+
+C99 is now partnered with around-j.com/ Visit Around-J for all the latest Juventus news and stories, or contact them if you are interested in visiting Torino and watching a Juventus game!
+
+2nd Channel: 
+https://www.youtube.com/channel/UCaOJEiCFgMM_HWWnnzjDmNA
+C99Tracks Channel: https://www.youtube.com/channel/UCRrQMOOEV_R_KXi5YcLTj-A
+
+Facebook Page: https://www.facebook.com/colo99/
+Twitter: https://twitter.com/dancolosimoo
+Instagram: https://www.instagram.com/dancolosimoo/
+www.colosimo99.com
+
+I DO NOT OWN THE RIGHTS TO THE CLIPS OR MUSIC. ALL RIGHTS BELONG TO THEIR RESPECTFUL OWNERS. This video is not intended to violate any Condition of Use. Copyright Disclaimer Under Section 107 of Copyright Act 1976, allowance is made for ""fair use"" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.', u'title': u'Zlatan Ibrahimović - INSANE Manchester United Goals'}",public,rectangular,True,2017-01-14T01:12:31.000Z,{u'blocked': [u'IN']},"[juventus, juve, HD, colosimo99, ronaldo, messi, neymar, real, madrid, barcelona, bayern, skills, goals, tricks, assist, top, 10, amazing, pogba, ibrahimovich, hazard, arsenal, ozil, sanchez, diego, costa, liverpool, coutinho, manchester, united, city, aguero, champions, league, premier, highlights, 2017, dybala, higuain, buffon, insane, english commentary, crystal palace, swansea, europa league, premier league, sweden, vs, rooney]",Zlatan Ibrahimović - INSANE Manchester United Goals,68Z1FlMuais,101483
+77,,,,190148,143,52128812,,,,,,,,,,,,,,,,,,,
+78,17,UC7w8GnTF2Sp3wldDMtCCtVw,FullTimeDEVILS,,,,165,en-GB,hd,"Jose Mourinho's post match press conference after Manchester United 1-1 Liverpool in the Premier League! Defences on top, Comment to have your say!
+
+Subscribe, FREE, for more MUFC: http://bit.ly/DEVILSsub
+Subscribe to The Football Republic: http://bit.ly/1Nsw8Uq
+
+About FullTimeDEVILS:
+We are YouTube's largest football fan channel, made for Manchester United fans and bringing you big match previews, post-match reaction and reviews, tactical analysis, player debates and much more! If you're a red, we want you to get involved; whatever you want to say about United you can say it in the comments below. And to become one of our Devil pundits and be on the shows,here's how you can get in touch:
+Twitter: https://twitter.com/FullTimeDEVILS
+Facebook: https://www.facebook.com/FullTimeDEVILS
+G+: https://plus.google.com/+FullTimeDevils",7,PT7M44S,0,375,none,"{u'description': u'Jose Mourinho's post match press conference after Manchester United 1-1 Liverpool in the Premier League! Defences on top, Comment to have your say!
+
+Subscribe, FREE, for more MUFC: http://bit.ly/DEVILSsub
+Subscribe to The Football Republic: http://bit.ly/1Nsw8Uq
+
+About FullTimeDEVILS:
+We are YouTube's largest football fan channel, made for Manchester United fans and bringing you big match previews, post-match reaction and reviews, tactical analysis, player debates and much more! If you're a red, we want you to get involved; whatever you want to say about United you can say it in the comments below. And to become one of our Devil pundits and be on the shows,here's how you can get in touch:
+Twitter: https://twitter.com/FullTimeDEVILS
+Facebook: https://www.facebook.com/FullTimeDEVILS
+G+: https://plus.google.com/+FullTimeDevils', u'title': u'Jose Mourinho: 'Defensively Very Good!’ Manchester United 1-1 Liverpool FULL PRESS CONFERENCE'}",public,rectangular,True,2017-01-16T00:02:53.000Z,,"[Manchester United, Manchester, Man Utd, Football, Soccer, fulltimedevils, Andy Tate, Full Time Devils, Manchester United News, Transfer News, United, Man United, Mourinho, MUFC, Man United transfer news, Liverpool, Liverpool FC, Scousers, Manchester United 1-1 Liverpool, Man United 1-1 Liverpool, United 1-1 Liverpool, 1-1, Premier League, Jurgen Klopp, Klopp, Jose Mourinho, Zlatan Ibrahimovic goal, Zlatan goal, Matip, Coutinho, goals, goal, highlights, live stream, live, stream, vs]",Jose Mourinho: 'Defensively Very Good!’ Manchester United 1-1 Liverpool FULL PRESS CONFERENCE,cNgFfjiDTFE,11328
+79,,,,325143,3883,121613952,,,,,,,,,,,,,,,,,,,
+80,17,UCPkUH5hB_-yNlqoXOx_c-2w,The Reds,,,,90,en-GB,hd,Manchester United 1:1 Liverpool - Jurgen Klopp post-match reaction,61,PT3M56S,0,122,none,"{u'description': u'Manchester United 1:1 Liverpool - Jurgen Klopp post-match reaction', u'title': u'Manchester United 1:1 Liverpool - Jurgen Klopp post-match reaction'}",public,rectangular,True,2017-01-15T18:32:46.000Z,,"[The Reds, Jürgen Klopp, Klopp Press-Conference, Liverpool, Klopp press, Jurgen Klopp Liverpool, Klopp interview, Klopp Liverpool, Jurgen Klopp, Liverpool 2016, Liverpool 2016-2017, Klopp, Liverpool vs, Liverpool Fc soccer, Liverpool FC transfer news now, Liverpool F.C. (Football Team), Football (Interest), Manager (Profession), football, Manchester United 1:1 Liverpool, Klopp Manchester United, Klopp MU, MU 1:1 LFC, Milner Manchester United, Ibrahimovich Liverpool]",Manchester United 1:1 Liverpool - Jurgen Klopp post-match reaction,uvvurbBhm7c,20635
+81,,,,15531,80,1288434,,,,,,,,,,,,,,,,,,,
+82,17,UChkQQQlzYQb9l1jzLgz2acg,Cristiano Ronaldo Brasil,,,,23,,hd,Cristiano Ronaldo - Top 5 Inimagináveis Gols Pelo Manchester United ( Parte 2 ),3,PT4M52S,0,337,none,"{u'description': u'Cristiano Ronaldo - Top 5 Inimagináveis Gols Pelo Manchester United ( Parte 2 )', u'title': u'Cristiano Ronaldo - Top 5 Inimagináveis Gols Pelo Manchester United ( Parte 2 )'}",public,rectangular,True,2017-01-16T12:27:54.000Z,,[Editor do YouTube],Cristiano Ronaldo - Top 5 Inimagináveis Gols Pelo Manchester United ( Parte 2 ),7UY71ksPE2w,7466
+83,,,,28715,50,6145272,,,,,,,,,,,,,,,,,,,
+84,17,UC30avO2n6knAFiH2c8e4qiw,The Redmen TV,,,,284,en-GB,hd,"Tensions were high in the studio during Liverpool’s 1-1 draw with Manchester United on Sunday. The lads were desperate for Jurgen Klopp’s Reds to hold out for the 3 points, but were disappointed as Zlatan Ibrahimovic’s header equalised late on for United.
+
+The Redmen TV is Uncensored LFC Television...
+
+Buy Redmen T-Shirts: http://bit.ly/TheRedmenTVShop
+
+You Can Find us HERE:
+
+YouTube:
+http://www.youtube.com/theredmentv 
+
+Website:
+http://www.theredmentv.com
+
+Facebook:
+http://www.facebook.com/TheRedmenTV
+
+Twitter:
+http://www.twitter.com/TheRedmenTV
+http://www.twitter.com/MrBloodRed
+
+Vine:
+https://vine.co/TheRedmenTV   
+
+Instagram:
+https://instagram.com/theredmentv/
+
+goals assists highlights full match",56,PT5M53S,0,621,none,"{u'description': u'Tensions were high in the studio during Liverpool’s 1-1 draw with Manchester United on Sunday. The lads were desperate for Jurgen Klopp’s Reds to hold out for the 3 points, but were disappointed as Zlatan Ibrahimovic’s header equalised late on for United.
+
+The Redmen TV is Uncensored LFC Television...
+
+Buy Redmen T-Shirts: http://bit.ly/TheRedmenTVShop
+
+You Can Find us HERE:
+
+YouTube:
+http://www.youtube.com/theredmentv 
+
+Website:
+http://www.theredmentv.com
+
+Facebook:
+http://www.facebook.com/TheRedmenTV
+
+Twitter:
+http://www.twitter.com/TheRedmenTV
+http://www.twitter.com/MrBloodRed
+
+Vine:
+https://vine.co/TheRedmenTV   
+
+Instagram:
+https://instagram.com/theredmentv/
+
+goals assists highlights full match', u'title': u'Manchester United v Liverpool 1-1 | Story of the Match'}",public,rectangular,True,2017-01-15T19:52:53.000Z,,"[uncensored match build up, premier league, fa cup, league cup, champions league, champion's league, transfer news, epl, 足球, transfer rumours, soccer, football, fussball, new liverpool player, lfc fan channel, liverpool fan tv, lfc go, lfc tv go, the redmen, wearetheredmen, rmtv, the redmen tv, 利物浦, liverpool fans channel, lfc tv, liverpool fc, manchester united, jose mourinho, 1-1, old trafford, james milner, zlatan ibrahimovic, jurgen klopp]",Manchester United v Liverpool 1-1 | Story of the Match,jRT8d1u0SNE,14537
+85,,,,148782,3155,52416162,,,,,,,,,,,,,,,,,,,
+86,17,UCmfOWyP4sS2L4GQYLlLyMTQ,TomSportsHeaven,,,,12,en-GB,hd,"►Manchester United 1-1 Liverpool Post Match Analysis - Football Show ESPN FC - Pogba's Worst Game
+►Biggest January Transfers 2017: https://www.youtube.com/watch?v=LGyiHU9QxZE
+►Subscribe for more videos: http://www.youtube.com/user/fifacommunityforyou?sub_confirmation=1
+►Zlatan Ibrahimovic Post Match Interview: https://www.youtube.com/watch?v=sW9jtdLotNA
+►New PES 2017 Liverpool episode: https://www.youtube.com/watch?v=sPOA5-D1-ig
+►FIFA 17 CHANNEL: https://www.youtube.com/user/TomLFCHeaven 
+►Follow me: https://twitter.com/#!/TomLFCHeaven 
+►Add me on Facebook: http://www.facebook.com/TomLFCHeaven?sk=wall 
+►Instagram: http://instagram.com/tomlfcheaven
+►Playlists of all my video series: https://www.youtube.com/user/FifaCommunityForYou/playlists
+
+I upload Football Match Reviews & Analysis videos & gaming videos, Subscribe & enjoy the videos! :) 
+
+Send any Business Inquiries to: TomLFCHeaven@gmail.com
+
+Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for ""fair use"" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use..",0,PT11M27S,0,63,none,"{u'description': u'►Manchester United 1-1 Liverpool Post Match Analysis - Football Show ESPN FC - Pogba's Worst Game
+►Biggest January Transfers 2017: https://www.youtube.com/watch?v=LGyiHU9QxZE
+►Subscribe for more videos: http://www.youtube.com/user/fifacommunityforyou?sub_confirmation=1
+►Zlatan Ibrahimovic Post Match Interview: https://www.youtube.com/watch?v=sW9jtdLotNA
+►New PES 2017 Liverpool episode: https://www.youtube.com/watch?v=sPOA5-D1-ig
+►FIFA 17 CHANNEL: https://www.youtube.com/user/TomLFCHeaven 
+►Follow me: https://twitter.com/#!/TomLFCHeaven 
+►Add me on Facebook: http://www.facebook.com/TomLFCHeaven?sk=wall 
+►Instagram: http://instagram.com/tomlfcheaven
+►Playlists of all my video series: https://www.youtube.com/user/FifaCommunityForYou/playlists
+
+I upload Football Match Reviews & Analysis videos & gaming videos, Subscribe & enjoy the videos! :) 
+
+Send any Business Inquiries to: TomLFCHeaven@gmail.com
+
+Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for ""fair use"" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use..', u'title': u'Manchester United 1-1 Liverpool Post Match Analysis - Football Show ESPN FC - Pogba's Worst Game'}",public,rectangular,False,2017-01-16T10:13:37.000Z,,"[2016-17, Premier League, BPL, EPL, Sky Sports, BBC, MOTD, Sky, liverpool, goals, manchester united, Man United 1-1 Liverpool, LFC vs Man United, Klopp, Mourinho, Liverpool-Man United, LFC, MUFC, BT Sport, Sky Sports Analysis, Milner, Milner penalty, Manchester united 1-1 Liverpool, Ibrahimovic, Ibra goal, Zlatan, Ibrahimovic goal, Manchester United 1-1 Liverpool All Goals, Man United 1-1 Liverpool Post Match Analysis, Man United 1-1 Liverpool Analysis, Man United vs Liverpool Analysis]",Manchester United 1-1 Liverpool Post Match Analysis - Football Show ESPN FC - Pogba's Worst Game,hDPTmvBPQIs,10166
+87,,,,19694,288,2379473,,,,,,,,,,,,,,,,,,,
+88,17,UC7w8GnTF2Sp3wldDMtCCtVw,FullTimeDEVILS,,,,316,,hd,"Here's the rest of the fancams from today's draw Manchester United 1-1 Liverpool. Where do you think we can finish? Let us know in the comments! 
+
+Subscribe, FREE, for more MUFC: http://bit.ly/DEVILSsub
+Subscribe to The Football Republic: http://bit.ly/1Nsw8Uq
+
+Where Will We Finish? | FANCAMS: Best Of The Rest! | Manchester United 1-1 Liverpool
+
+About FullTimeDEVILS:
+We are YouTube's largest football fan channel, made for Manchester United fans and bringing you big match previews, post-match reaction and reviews, tactical analysis, player debates and much more! If you're a red, we want you to get involved; whatever you want to say about United you can say it in the comments below. And to become one of our Devil pundits and be on the shows,here's how you can get in touch:
+Twitter: https://twitter.com/FullTimeDEVILS
+Facebook: https://www.facebook.com/FullTimeDEVILS
+G+: https://plus.google.com/+FullTimeDevils",34,PT10M37S,0,478,none,"{u'description': u'Here's the rest of the fancams from today's draw Manchester United 1-1 Liverpool. Where do you think we can finish? Let us know in the comments! 
+
+Subscribe, FREE, for more MUFC: http://bit.ly/DEVILSsub
+Subscribe to The Football Republic: http://bit.ly/1Nsw8Uq
+
+Where Will We Finish? | FANCAMS: Best Of The Rest! | Manchester United 1-1 Liverpool
+
+About FullTimeDEVILS:
+We are YouTube's largest football fan channel, made for Manchester United fans and bringing you big match previews, post-match reaction and reviews, tactical analysis, player debates and much more! If you're a red, we want you to get involved; whatever you want to say about United you can say it in the comments below. And to become one of our Devil pundits and be on the shows,here's how you can get in touch:
+Twitter: https://twitter.com/FullTimeDEVILS
+Facebook: https://www.facebook.com/FullTimeDEVILS
+G+: https://plus.google.com/+FullTimeDevils', u'title': u'Where Will We Finish? | FANCAMS: Best Of The Rest! | Manchester United 1-1 Liverpool'}",public,rectangular,True,2017-01-15T23:47:56.000Z,,"[Manchester United, Manchester, Man Utd, Football, Soccer, fulltimedevils, Andy Tate, Full Time Devils, Manchester United News, Transfer News, United, Man United, Mourinho, MUFC, Liverpool, Liverpool FC, Scousers, Manchester United 1-1 Liverpool, Man United 1-1 Liverpool, United 1-1 Liverpool, 1-1, Premier League, Old Trafford, Jurgen Klopp, Klopp, Jose Mourinho, Zlatan Ibrahimovic goal, Zlatan goal, Matip, Coutinho, goals, goal, highlights, live stream, live, stream, vs]",Where Will We Finish? | FANCAMS: Best Of The Rest! | Manchester United 1-1 Liverpool,GAw0JGWthDE,19124
+89,,,,325143,3883,121613952,,,,,,,,,,,,,,,,,,,
+90,17,UCmfOWyP4sS2L4GQYLlLyMTQ,TomSportsHeaven,,,,47,en-GB,hd,"►Manchester United 1-1 Liverpool - Jurgen Klopp Post Match Interview: ""A point is not good""
+►Manchester United 1-1 Liverpool Post Match Analysis: https://www.youtube.com/watch?v=ycniIRt059Y
+►Subscribe for more videos: http://www.youtube.com/user/fifacommunityforyou?sub_confirmation=1
+►Video credits to: https://www.youtube.com/channel/UCYXHZH-tPbiHHEqBFGrccGA
+►Biggest January Transfers 2017 - Premier League & China to spend crazy: https://www.youtube.com/watch?v=LGyiHU9QxZE
+►New PES 2017 Liverpool episode: https://www.youtube.com/watch?v=sPOA5-D1-ig
+►FIFA 17 CHANNEL: https://www.youtube.com/user/TomLFCHeaven 
+►Follow me: https://twitter.com/#!/TomLFCHeaven 
+►Add me on Facebook: http://www.facebook.com/TomLFCHeaven?sk=wall 
+►Instagram: http://instagram.com/tomlfcheaven
+►Playlists of all my video series: https://www.youtube.com/user/FifaCommunityForYou/playlists
+
+I upload Football Match Reviews & Analysis videos & gaming videos, Subscribe & enjoy the videos! :) 
+
+Send any Business Inquiries to: TomLFCHeaven@gmail.com
+
+Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for ""fair use"" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use..",16,PT4M12S,0,126,none,"{u'description': u'►Manchester United 1-1 Liverpool - Jurgen Klopp Post Match Interview: ""A point is not good""
+►Manchester United 1-1 Liverpool Post Match Analysis: https://www.youtube.com/watch?v=ycniIRt059Y
+►Subscribe for more videos: http://www.youtube.com/user/fifacommunityforyou?sub_confirmation=1
+►Video credits to: https://www.youtube.com/channel/UCYXHZH-tPbiHHEqBFGrccGA
+►Biggest January Transfers 2017 - Premier League & China to spend crazy: https://www.youtube.com/watch?v=LGyiHU9QxZE
+►New PES 2017 Liverpool episode: https://www.youtube.com/watch?v=sPOA5-D1-ig
+►FIFA 17 CHANNEL: https://www.youtube.com/user/TomLFCHeaven 
+►Follow me: https://twitter.com/#!/TomLFCHeaven 
+►Add me on Facebook: http://www.facebook.com/TomLFCHeaven?sk=wall 
+►Instagram: http://instagram.com/tomlfcheaven
+►Playlists of all my video series: https://www.youtube.com/user/FifaCommunityForYou/playlists
+
+I upload Football Match Reviews & Analysis videos & gaming videos, Subscribe & enjoy the videos! :) 
+
+Send any Business Inquiries to: TomLFCHeaven@gmail.com
+
+Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for ""fair use"" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use..', u'title': u'Manchester United 1-1 Liverpool - Jurgen Klopp Post Match Interview: ""A point is not good""'}",public,rectangular,False,2017-01-15T19:10:05.000Z,,"[2016-17, Premier League, BPL, EPL, Sky Sports, BBC, MOTD, Sky, liverpool, goals, manchester united, Liverpool Man United, Liverpool - Man United, Man United 1-1 Liverpool, LFC vs Man United, Klopp, Mourinho, Jurgen Klopp, Jose Mourinho, Liverpool-Man United, Manchester United 1-1 Liverpool, Klopp vs Mourinho, LFC, Old Trafford, MUTD, BT Sport, ESPN, Sky Sports Analysis, Manchester united 1-1 Liverpool, Mourinho Interview, Ibrahimovic Interview, Klopp Interview, Klopp Post Match Interview]","Manchester United 1-1 Liverpool - Jurgen Klopp Post Match Interview: ""A point is not good""",1IyMbMAkKfM,23039
+91,,,,19694,288,2379473,,,,,,,,,,,,,,,,,,,
+92,17,UCoj9Ji7s0S2p7bbdeNlM_Og,Totaleros,,,,34,es-419,sd,"Fútbol Total (15/1/17) Análisis Manchester United 1 Liverpool 1 | Premier League Fecha 21 | Parte 5
+Twitter : https://twitter.com/TotalerosFC
+Apoya con un LIKE , si quieres que suba más videos.
+
+Real Madrid
+Barcelona
+Atletico de Madrid
+Bayern Munich
+Manchester United
+Manchester City
+Chelsea
+Arsenal
+Liverpool
+Cristiano Ronaldo
+Messi
+James Rodriguez
+Neymar
+Gareth Bale
+Luis Suárez
+Karim Benzema
+Liga Española
+Liga BBVA 2016-2017
+Copa del Rey 2016-2017
+Premier League 2016-2017
+Serie A 2016-2017
+Bundesliga 2016-2017
+Ligue 1 2016-2017
+Champions League 2016-2017
+Europa League 2016-2017
+España
+Argentina
+Brasil
+Balón de Oro 2016
+Eliminatorias Rusia 2018",2,PT12M28S,0,37,none,"{u'description': u'Fútbol Total (15/1/17) Análisis Manchester United 1 Liverpool 1 | Premier League Fecha 21 | Parte 5
+Twitter : https://twitter.com/TotalerosFC
+Apoya con un LIKE , si quieres que suba más videos.
+
+Real Madrid
+Barcelona
+Atletico de Madrid
+Bayern Munich
+Manchester United
+Manchester City
+Chelsea
+Arsenal
+Liverpool
+Cristiano Ronaldo
+Messi
+James Rodriguez
+Neymar
+Gareth Bale
+Luis Suárez
+Karim Benzema
+Liga Española
+Liga BBVA 2016-2017
+Copa del Rey 2016-2017
+Premier League 2016-2017
+Serie A 2016-2017
+Bundesliga 2016-2017
+Ligue 1 2016-2017
+Champions League 2016-2017
+Europa League 2016-2017
+España
+Argentina
+Brasil
+Balón de Oro 2016
+Eliminatorias Rusia 2018', u'title': u'5|5 Fútbol Total (15/1/17) Análisis Manchester United 1 Liverpool 1 | Premier League Fecha 21'}",public,rectangular,True,2017-01-16T03:15:30.000Z,,"[Fútbol Total, DIRECTV Sports, DIRECTV, Real Madrid, Barcelona, Liga Santander, Premier, League, UEFA Champions League]",5|5 Fútbol Total (15/1/17) Análisis Manchester United 1 Liverpool 1 | Premier League Fecha 21,gh3QjE_TNlM,3653
+93,,,,23305,2086,10863186,,,,,,,,,,,,,,,,,,,
+94,17,UCr5vPy2YUScYtiyAYiGn2Rg,Wrzzer,,,,187,,hd,"Hit LIKE and SUBSCRIBE
+Thank you for watching! If you enjoyed, please Subscribe us;
+http://bit.ly/Wrzzer
+
+Title: 
+Cristiano Ronaldo: SIMILAR Skills & Goals » Manchester United & Real Madrid
+
+Track:
+Two Steps From Hell - For the Win (Follow Remix)",44,PT7M28S,0,1784,none,"{u'description': u'Hit LIKE and SUBSCRIBE
+Thank you for watching! If you enjoyed, please Subscribe us;
+http://bit.ly/Wrzzer
+
+Title: 
+Cristiano Ronaldo: SIMILAR Skills & Goals » Manchester United & Real Madrid
+
+Track:
+Two Steps From Hell - For the Win (Follow Remix)', u'title': u'Cristiano Ronaldo: SIMILAR Skills & Goals » Manchester United & Real Madrid'}",public,rectangular,False,2017-01-16T21:31:24.000Z,,"[CRISTIANO RONALDO SIMILAR SKILLS, CRISTIANO RONALDO SIMILAR GOALS, CRISTIANO RONALDO SKILLS, CRISTIANO RONALDO GOALS, CRISTIANO SIMILAR SKILLS, CRISTIANO SIMILAR GOALS, RONALDO SIMILAR SKILLS, RONALDO SIMILAR GOALS, CRISTIANO SKILLS, CRISTIANO GOALS, RONALDO SKILLS, RONALDO GOALS, CRISTIANO RONALDO SIMILAR, CRISTIANO SIMILAR, RONALDO SIMILAR, CRISTIANO RONALDO, CRISTIANO, RONALDO, SIMILAR SKILLS, SIMILAR GOALS, SIMILAR, SKILLS, GOALS, MANCHESTER UNITED, REAL MADRID, WRZZER]",Cristiano Ronaldo: SIMILAR Skills & Goals » Manchester United & Real Madrid,14IJn5icC5Q,25605
+95,,,,1130226,189,497360140,,,,,,,,,,,,,,,,,,,
+96,17,UCbWUEnTRHb3bRdrnovq8iuA,Football Daily,,,,1593,en,hd,"► SUBSCRIBE to FOOTBALL DAILY: http://bit.ly/fdsubscribe
+
+Paul Pogba had an absolute shocker against Liverpool! Everton thrashed Man City & Andy Caroll scored an outrageous bicycle kick! 
+
+► FOLLOW us on Snapchat: http://snapchat.com/add/footballdailyuk
+
+► FOLLOW us on Twitter: http://bit.ly/YaRzlu
+
+► FOLLOW us on Instagram: http://bit.ly/1Q6sc0h
+
+► FOLLOW us on Google+: http://bit.ly/10pRPdT
+
+► LIKE us on Facebook: http://on.fb.me/10pugRr
+
+Check out our brand new second channel on European football - http://bit.ly/EUROFDsubscribe",308,PT15M16S,0,5568,none,"{u'description': u'► SUBSCRIBE to FOOTBALL DAILY: http://bit.ly/fdsubscribe
+
+Paul Pogba had an absolute shocker against Liverpool! Everton thrashed Man City & Andy Caroll scored an outrageous bicycle kick! 
+
+► FOLLOW us on Snapchat: http://snapchat.com/add/footballdailyuk
+
+► FOLLOW us on Twitter: http://bit.ly/YaRzlu
+
+► FOLLOW us on Instagram: http://bit.ly/1Q6sc0h
+
+► FOLLOW us on Google+: http://bit.ly/10pRPdT
+
+► LIKE us on Facebook: http://on.fb.me/10pugRr
+
+Check out our brand new second channel on European football - http://bit.ly/EUROFDsubscribe', u'title': u'Has Paul Pogba Cost Manchester United A Champions League Place?! | W&L'}",public,rectangular,False,2017-01-16T16:01:12.000Z,,"[football daily, football news, football, soccer, transfer news, premier league, champions league, epl, la liga, serie a, bundesliga, highlights, goals, Paul Pogba, Manchester United, Pogba Handball, Manchester United 1 Liverpool 1, Henderson, Champions League, Harry Kane, Tottenham, Chelsea, Zlatan Ibrahimovic, Sevilla, Jovetic, Real Madrid, Everton 4 Man City 0, Tom Davies, Pep Guardiola, Marco Alonso, Pedro, Andy Caroll, West Ham, Joey Barton, Hull City, Marco Silva, Payet]",Has Paul Pogba Cost Manchester United A Champions League Place?! | W&L,HBgLqMFei7w,214945
+97,,,,983211,1897,385093934,,,,,,,,,,,,,,,,,,,
+98,17,UCmfOWyP4sS2L4GQYLlLyMTQ,TomSportsHeaven,,,,21,en-GB,hd,"►Manchester United 1-1 Liverpool Analysis - ESPN FC Football Show - Mourinho vs Klopp - Premier League 2016-17
+►Biggest January Transfers 2017: https://www.youtube.com/watch?v=LGyiHU9QxZE
+►Subscribe for more videos: http://www.youtube.com/user/fifacommunityforyou?sub_confirmation=1
+►Zlatan Ibrahimovic Post Match Interview: https://www.youtube.com/watch?v=sW9jtdLotNA
+►New PES 2017 Liverpool episode: https://www.youtube.com/watch?v=sPOA5-D1-ig
+►FIFA 17 CHANNEL: https://www.youtube.com/user/TomLFCHeaven 
+►Follow me: https://twitter.com/#!/TomLFCHeaven 
+►Add me on Facebook: http://www.facebook.com/TomLFCHeaven?sk=wall 
+►Instagram: http://instagram.com/tomlfcheaven
+►Playlists of all my video series: https://www.youtube.com/user/FifaCommunityForYou/playlists
+
+I upload Football Match Reviews & Analysis videos & gaming videos, Subscribe & enjoy the videos! :) 
+
+Send any Business Inquiries to: TomLFCHeaven@gmail.com
+
+Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for ""fair use"" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use..",17,PT12M32S,0,71,none,"{u'description': u'►Manchester United 1-1 Liverpool Analysis - ESPN FC Football Show - Mourinho vs Klopp - Premier League 2016-17
+►Biggest January Transfers 2017: https://www.youtube.com/watch?v=LGyiHU9QxZE
+►Subscribe for more videos: http://www.youtube.com/user/fifacommunityforyou?sub_confirmation=1
+►Zlatan Ibrahimovic Post Match Interview: https://www.youtube.com/watch?v=sW9jtdLotNA
+►New PES 2017 Liverpool episode: https://www.youtube.com/watch?v=sPOA5-D1-ig
+►FIFA 17 CHANNEL: https://www.youtube.com/user/TomLFCHeaven 
+►Follow me: https://twitter.com/#!/TomLFCHeaven 
+►Add me on Facebook: http://www.facebook.com/TomLFCHeaven?sk=wall 
+►Instagram: http://instagram.com/tomlfcheaven
+►Playlists of all my video series: https://www.youtube.com/user/FifaCommunityForYou/playlists
+
+I upload Football Match Reviews & Analysis videos & gaming videos, Subscribe & enjoy the videos! :) 
+
+Send any Business Inquiries to: TomLFCHeaven@gmail.com
+
+Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for ""fair use"" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use..', u'title': u'Manchester United 1-1 Liverpool Analysis - Football Show - Mourinho vs Klopp - ESPN FC Football Talk'}",public,rectangular,False,2017-01-15T14:27:19.000Z,,"[2016-17, Premier League, BPL, EPL, Sky Sports, BBC, MOTD, Sky, liverpool, goals, manchester united, Firmino, Liverpool Man United, Liverpool - Man United, Man United 1-1 Liverpool, LFC vs Man United, Klopp, Mourinho, Jurgen Klopp, Jose Mourinho, Liverpool-Man United, Liverpool Manchester United, Klopp vs Mourinho, LFC, LFC fans, Old Trafford, MUTD, MUTV, MUFC, BT Sport, ESPN, ESPN FC, Sky Sports Analysis, Milner, Milner penalty, Manchester united 1-1 Liverpool, Ibrahimovic]",Manchester United 1-1 Liverpool Analysis - Football Show - Mourinho vs Klopp - ESPN FC Football Talk,SEiKx9mFieU,24747
+99,,,,19694,288,2379473,,,,,,,,,,,,,,,,,,,

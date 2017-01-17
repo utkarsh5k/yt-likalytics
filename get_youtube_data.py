@@ -73,6 +73,7 @@ def gather(search_query):
     names = dataframe.columns.values
     f = open("data.csv", "a")
     dataframe.to_csv(path_or_buf=f, encoding='utf-8')
+    f.close()
 
 for query in search_queries:
     gather(query)

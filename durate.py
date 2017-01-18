@@ -3,9 +3,16 @@ import pandas as pd
 f = open("data.csv", "r")
 df = pd.read_csv(f)
 
-dura = []
+def times(data):
+	dura = []
+	for index, row in df.iterrows():
+		text = str(row['duration'])
+		txt = work(text)
+		dura.append(txt)
+	return dura
 
 def add_to_df():
+	dura = []
 	for index, row in df.iterrows():
 		text = str(row['duration'])
 		txt = work(text)

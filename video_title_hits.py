@@ -27,4 +27,21 @@ def add_col():
 	df.to_csv(path_or_buf=f, encoding='utf-8')
 	f.close()
 
+def get_hits(d):
+	hits = []
+	for index, row in d.iterrows():
+		match_title = str(row['title'])
+		match_title = match_title.split(' ')
+		title_hits = 0
+		for mt in match_title:
+			if mt not in blacklist:
+				with open("india24.txt") as f:
+					title_hits = title_hits + f.read().lower().count(mt.lower())
+				with open("uk24.txt") as f:
+					title_hits = title_hits + f.read().lower().count(mt.lower())
+				with open("usa24.txt") as f:
+					title_hits = title_hits + f.read().lower().count(mt.lower())
+		hits.append(title_hits)
+	return hits
+
 add_col()

@@ -63,12 +63,24 @@ def gather(search_query):
     dataframe = pd.DataFrame.from_dict(res)
     # drop useless columns from dataframe
     try:
-        dataframe.drop(['license', 'licensedContent', 'dimension', 'thumbnails', 'v_title', 'uploadStatus', 'defaultLanguage', 'contentRating'], axis=1, inplace=True)
+        dataframe.drop(['license', 'licensedContent', 'dimension', 'thumbnails', 'v_title', 'uploadStatus', 'defaultLanguage'], axis=1, inplace=True)
     except ValueError:
         dataframe.drop(['license', 'licensedContent', 'dimension', 'thumbnails', 'v_title', 'uploadStatus'], axis=1, inplace=True)
     dataframe.drop(['caption', 'embeddable'], axis=1, inplace=True)
+    try:
+        dataframe.drop(['contentRating'], axis=1, inplace=True)
+    except ValueError:
+        pass
+    try:
+        dataframe.drop(['defaultAudioLanguage'], axis=1, inplace=True)
+    except ValueError:
+        pass
+    try:
+        dataframe.drop(['regionRestriction'], axis=1, inplace=True)
+    except ValueError:
+        pass
     names = dataframe.columns.values
-    f = open("test.csv", "a")
+    f = open("data.csv", "a")
     dataframe.to_csv(path_or_buf=f, encoding='utf-8')
     f.close()
 

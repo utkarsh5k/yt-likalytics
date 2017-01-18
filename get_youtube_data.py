@@ -12,7 +12,7 @@ API_VERSION = "v3"
 
 search_queries = ["Manchester United", "Proximity", "Ed Sheeran", "Selena Gomez", "Chelsea FC",
                 "Mortal Kombat", "Call of Duty", "WWE", "Conor McGregor", "AIB", "TVF", "EIC", "SNG", 
-                "Graham Norton", "Jimmy Fallon", "Jimmy Kimmel", "Ellen DeGeneres", "Barack Obama"
+                "Graham Norton", "Jimmy Fallon", "Jimmy Kimmel", "Ellen DeGeneres", "Barack Obama",
                 "Donald Trump", "Hillary Clinton", "Pokemon Go", "Battlefield", "League of Legends", 
                 "Khan Academy", "TED", "GTA", "Deepika Padukone", "Pirates of the Caribbean", "Ranveer Singh",
                 "Koffee with Karan", "Ranbir Kapoor", "Kareena Kapoor", "Priyanka Chopra", "Chainsmokers", 
@@ -63,18 +63,14 @@ def gather(search_query):
     dataframe = pd.DataFrame.from_dict(res)
     # drop useless columns from dataframe
     try:
-        dataframe.drop(['license', 'licensedContent', 'dimension', 'thumbnails', 'v_title', 'uploadStatus', 'defaultLanguage'], axis=1, inplace=True)
+        dataframe.drop(['license', 'licensedContent', 'dimension', 'thumbnails', 'v_title', 'uploadStatus', 'defaultLanguage', 'contentRating'], axis=1, inplace=True)
     except ValueError:
         dataframe.drop(['license', 'licensedContent', 'dimension', 'thumbnails', 'v_title', 'uploadStatus'], axis=1, inplace=True)
-    """
-    below columns can be manipulated into being features
-    """
     dataframe.drop(['caption', 'embeddable'], axis=1, inplace=True)
     names = dataframe.columns.values
     f = open("test.csv", "a")
     dataframe.to_csv(path_or_buf=f, encoding='utf-8')
     f.close()
-
 
 for query in search_queries:
     gather(query)

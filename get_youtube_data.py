@@ -58,7 +58,7 @@ def gather(search_query):
     	temp_res.update(i['snippet'])
     	channel_details = cd.get_all_data(temp_res['channelId'])
     	res.append(temp_res)
-    	res.append(channel_details)
+        temp_res.update(channel_details)
 
     dataframe = pd.DataFrame.from_dict(res)
     # drop useless columns from dataframe
@@ -71,9 +71,10 @@ def gather(search_query):
     """
     dataframe.drop(['caption', 'embeddable'], axis=1, inplace=True)
     names = dataframe.columns.values
-    f = open("data.csv", "a")
+    f = open("test.csv", "a")
     dataframe.to_csv(path_or_buf=f, encoding='utf-8')
     f.close()
+
 
 for query in search_queries:
     gather(query)
